@@ -25,19 +25,29 @@
         h1 {
             font-size: 2.5rem; /* 40px */
             line-height: 1.2;
-            margin: 1.5rem 0 1rem 0;
+            margin: 1.5rem 0 0.5rem 0; /* Changed bottom margin from 1rem to 0.5rem */
         }
         
         h2 {
             font-size: 2rem; /* 32px */
             line-height: 1.3;
-            margin: 1.25rem 0 0.75rem 0;
+            margin: 1.25rem 0 0.375rem 0; /* Changed bottom margin from 0.75rem to 0.375rem */
         }
         
         h3 {
             font-size: 1.5rem; /* 24px */
             line-height: 1.4;
-            margin: 1rem 0 0.5rem 0;
+            margin: 1rem 0 0.25rem 0; /* Changed bottom margin from 0.5rem to 0.25rem */
+        }
+        
+        /* Purple hyperlinks */
+        a {
+            color: #9b6bd4;
+            text-decoration: underline;
+        }
+
+        a:hover {
+            color: #6830C4; /* Darker purple on hover */
         }
         
         /* Lines between side padding & page width - fixed to viewport */
@@ -62,25 +72,25 @@
         nav {
             margin-bottom: 40px;
             position: relative;
-        }nav a 
-        {
-             margin-right: 12px;
+        }
+        
+        nav a {
+            margin-right: 12px;
             text-decoration: none;
-            color: white; /* White text on colored background */
+            color: white !important; /* White text on colored background */
             background-color: #6830C4;
             padding: 4px 8px; /* Add some padding for better appearance */
             border-radius: 3px; /* Optional: rounded corners */
         }
 
         nav a:hover {
-             background-color: #4a1f8a; /* Darker on hover */
+            background-color: #4a1f8a; /* Darker on hover */
         }
-/* Current page styling - lighter background */
-nav a.current {
-    background-color: #9b6bd4; /* Lighter shade of your purple */
-}
-
         
+        /* Current page styling - lighter background */
+        nav a.current {
+            background-color: #9b6bd4; /* Lighter shade of your purple */
+        }
         
         /* Line below navigation */
         nav::after {
@@ -112,21 +122,47 @@ nav a.current {
         .sidebar a {
             display: block;
             margin-bottom: 8px;
-            color: #666;
+            color: #666 !important;
             text-decoration: none;
         }
 
         .sidebar a:hover {
-            color: #6830C4;
-        }
-        
-        nav a {
-            margin-right: 12px;
-            text-decoration: none;
+            color: #6830C4 !important;
         }
         
         /* Class for content dividers */
         .divider {
+            width: 90%;
+            height: 1px;
+            background-color: #e0e0e0;
+            margin: 30px auto;
+            border: none;
+        }
+        
+        /* Horizontal rules - purple and grey options */
+        hr {
+            border: none;
+            height: 1px;
+            background-color: #9b6bd4;
+            margin: 30px auto;
+            width: 90%;
+        }
+
+        /* Grey horizontal rule option - use class="grey" */
+        hr.grey {
+            background-color: #e0e0e0;
+        }
+
+        /* Alternative: you can also use custom classes */
+        .divider-purple {
+            width: 90%;
+            height: 1px;
+            background-color: #9b6bd4;
+            margin: 30px auto;
+            border: none;
+        }
+
+        .divider-grey {
             width: 90%;
             height: 1px;
             background-color: #e0e0e0;
@@ -165,12 +201,12 @@ nav a.current {
         }
         
         footer a {
-            color: #666;
+            color: #666 !important;
             text-decoration: none;
         }
         
         footer a:hover {
-            color: #000;
+            color: #000 !important;
         }
         
         /* Hide mobile contact on desktop */
@@ -191,17 +227,17 @@ nav a.current {
             /* Mobile typography */
             h1 {
                 font-size: 1.8rem; /* ~29px - reduced from 40px */
-                margin: 1.2rem 0 0.8rem 0;
+                margin: 1.2rem 0 0.4rem 0; /* Changed bottom margin from 0.8rem to 0.4rem */
             }
             
             h2 {
                 font-size: 1.5rem; /* ~24px - reduced from 32px */
-                margin: 1rem 0 0.6rem 0;
+                margin: 1rem 0 0.3rem 0; /* Changed bottom margin from 0.6rem to 0.3rem */
             }
             
             h3 {
                 font-size: 1.25rem; /* ~20px - reduced from 24px */
-                margin: 0.8rem 0 0.4rem 0;
+                margin: 0.8rem 0 0.2rem 0; /* Changed bottom margin from 0.4rem to 0.2rem */
             }
             
             /* Hide side lines on mobile */
@@ -225,7 +261,7 @@ nav a.current {
             .mobile-contact a {
                 display: inline-block;
                 margin: 0 8px;
-                color: #6830C4;
+                color: #6830C4 !important;
                 text-decoration: none;
                 font-size: 12px;
             }
@@ -263,17 +299,17 @@ nav a.current {
             /* Small mobile typography */
             h1 {
                 font-size: 1.6rem; /* ~26px */
-                margin: 1rem 0 0.6rem 0;
+                margin: 1rem 0 0.3rem 0; /* Changed bottom margin from 0.6rem to 0.3rem */
             }
             
             h2 {
                 font-size: 1.3rem; /* ~21px */
-                margin: 0.8rem 0 0.5rem 0;
+                margin: 0.8rem 0 0.25rem 0; /* Changed bottom margin from 0.5rem to 0.25rem */
             }
             
             h3 {
                 font-size: 1.1rem; /* ~18px */
-                margin: 0.6rem 0 0.3rem 0;
+                margin: 0.6rem 0 0.15rem 0; /* Changed bottom margin from 0.3rem to 0.15rem */
             }
             
             nav {
@@ -324,7 +360,10 @@ nav a.current {
     <h1 id="kevin-witzenberger">Kevin Witzenberger</h1>
 
 <p><strong>AI Strategy &amp; Governance Expert</strong><br />
-Helping organisations navigate AI transformation through technical expertise, policy insight, and strategic communication.</p>
+Helping organisations navigate AI transformation through technical expertise, policy insight, and strategic communication.
+—</p>
+
+<hr class="grey" />
 
 <h2 id="what-i-do">What I Do</h2>
 <ul>
@@ -334,6 +373,8 @@ Helping organisations navigate AI transformation through technical expertise, po
   <li><strong>Policy Influence:</strong> Research cited in 18 government policy documents (UNESCO, European Commission)</li>
   <li><strong>International Experience:</strong> German citizen with expertise across European</li>
 </ul>
+
+<hr />
 
 <h2 id="why-this-matters">Why This Matters</h2>
 <p>Modern AI implementation isn’t just a technical challenge—it’s a strategic one. Companies need leaders who understand both what AI can do and how to deploy it responsibly whilst navigating complex regulatory requirements. I bridge that gap.</p>
