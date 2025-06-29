@@ -8,7 +8,7 @@ title: about
 <div class="bio-container">
 <img src="assets/headshot.jpg" alt="Kevin Witzenberger" class="headshot">
 
-<div class="bio-text">
+<div class="bio-text" markdown="1">
 
 ## about
 I'm a researcher at the intersection of AI and society, with a focus on generative AI. My work centres on a core principle: **better AI literacy creates better AI capabilities**. Organisations don't just need AI tools—they need people who understand the opportunities and risks of these technologies.
@@ -34,3 +34,6 @@ My background spans technical and social dimensions of AI. I can engage with sys
 AI implementations often fail not due to technical limitations, but because organisations struggle to distinguish between actual capabilities and inflated claims. My work focuses on creating practical frameworks that bridge this knowledge gap.
 
 This includes establishing new approaches to AI literacy, contributing to public discourse through media engagement, and developing governance frameworks that help institutions make informed decisions about AI adoption.
+
+</div>
+</div>
