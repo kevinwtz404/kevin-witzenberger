@@ -11,7 +11,7 @@ title: about
 <div class="bio-text" markdown="1">
 
 ## about
-I'm a researcher at the intersection of AI and society, with a focus on generative AI. My work centres on a core principle: **better AI literacy creates better AI capabilities**. Organisations don't just need AI tools—they need people who understand the opportunities and risks of these technologies.
+I'm a researcher at the intersection of AI and society, with a focus on generative AI. My work centres on a core principle: **better AI literacy creates better AI capabilities**. Organisations don't just need AI tools, they need people who understand the opportunities and risks of these technologies.
 
 Currently a Research Fellow at QUT's GenAI Lab, affiliated investigator at the ARC CoE in Automated Decision-Making + Society, and co-founder of the Education Futures Studio at the University of Sydney. I hold a PhD in Science & Technology Studies from UNSW, where I investigated how artificial intelligence shapes education governance. I have 7 years of research experience examining the impact of AI technologies across various sectors.
 
