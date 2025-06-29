@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Portfolio - Kevin Witzenberger</title>
+    <title>portfolio - Kevin Witzenberger</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         * {
@@ -102,14 +102,42 @@
             height: 1px;
             background-color: #e0e0e0;
         }
-        
+.about-container {
+    display: grid;
+    grid-template-columns: 1fr 200px;
+    gap: 30px;
+    align-items: start;
+}
+
+.headshot {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: 0;
+    display: block;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+    .headshot {
+        max-width: 150px;  /* Just smaller size, still right-aligned */
+    }
+}
+    
+    .headshot {
+        max-width: 200px;
+        margin: 0 auto;
+    }
+
         /* Desktop sidebar for contact info */
         .sidebar {
             position: fixed;
             left: 60px;
             top: 110px; /* Aligned with content start */
             width: 250px;
-            font-size: 15px;
+            font-size: 18px;
             line-height: 1.4;
         }
 
@@ -122,12 +150,12 @@
         .sidebar a {
             display: block;
             margin-bottom: 8px;
-            color: #666 !important;
+            color: #6830C4 !important;
             text-decoration: none;
         }
 
         .sidebar a:hover {
-            color: #6830C4 !important;
+            color: #666 !important;
         }
         
         /* Class for content dividers */
@@ -349,26 +377,60 @@
     </nav>
     
     <div class="sidebar">
-        <h4>Connect</h4>
+        <h3>Connect</h3>
         <a href="mailto:kevin.witzenberger@posteo.de">Email</a>
         <a href="https://linkedin.com/in/kevin-witzenberger/" target="_blank">LinkedIn</a>
-        <a href="https://orcid.org/0000-0002-7643-701X" target="_blank">ORCID</a>
+        <a href="GenAI-Arcade.net" target="_blank">GenAI Arcade</a>
         <a href="https://scholar.google.com.au/citations?user=rzyG0ucAAAAJ&hl=en" target="_blank">Google Scholar</a>
-        <a href="https://theconversation.com/profiles/kevin-witzenberger-2332896" target="_blank">The Conversation</a>
+        <a href="https://orcid.org/0000-0002-7643-701X" target="_blank">ORCID</a>
+
+        
     </div>
     
-    <h1 id="portfolio">Portfolio</h1>
+    <h1 id="portfolio">portfolio</h1>
 
-<p>Portfolio page placeholder - content coming later.</p>
+<h2 id="genai-arcade-interactive-ai-literacy-platform">GenAI Arcade: Interactive AI Literacy Platform</h2>
+
+<p><strong>Challenge:</strong> Most AI education is either too technical for general users or too superficial to be useful. People need hands-on experience to understand AI capabilities and limitations, but existing resources don’t bridge this gap effectively.</p>
+
+<p><strong>Solution:</strong> I developed GenAI Arcade—an interactive platform that lets people learn about AI by actually using it. Rather than reading about AI, users experiment with different AI systems through guided activities and games.</p>
+
+<h3 id="what-it-does">What It Does</h3>
+<ul>
+  <li><strong>Learning Through Interaction:</strong> Users engage directly with AI systems to understand how they work</li>
+  <li><strong>Critical Literacy:</strong> Addresses not just capabilities but also limitations, environmental costs, and responsible use</li>
+  <li><strong>Accessible Design:</strong> No technical background required, but provides genuine understanding</li>
+  <li><strong>Practical Focus:</strong> Teaches when to use AI, when to avoid it, and how to use it effectively</li>
+</ul>
+
+<h3 id="technical-implementation">Technical Implementation</h3>
+<p>Built using Gradio applications with custom AI integrations I configured across multiple platforms. The modular design allows for easy expansion and adaptation to different learning contexts.</p>
+
+<h3 id="why-this-matters">Why This Matters</h3>
+<p>Organizations investing in AI need their people to actually understand these tools. GenAI Arcade demonstrates a new approach to AI literacy that could be adapted for:</p>
+<ul>
+  <li><strong>Corporate training programs</strong> for AI transformation initiatives</li>
+  <li><strong>Executive education</strong> on AI capabilities and limitations</li>
+  <li><strong>Client education</strong> for technology companies</li>
+  <li><strong>Public engagement</strong> around AI policy and governance</li>
+</ul>
+
+<p><strong>Visit the platform:</strong> <a href="http://genai-arcade.net/">genai-arcade.net</a></p>
+
+<p><em>This project represents my approach to AI literacy: hands-on, critical, and focused on empowering people to engage effectively with AI systems.</em></p>
+
+<hr />
+
 
     
     <footer>
         <div class="mobile-contact">
             <a href="mailto:kevin.witzenberger@posteo.de">Email</a>
             <a href="https://linkedin.com/in/kevin-witzenberger/" target="_blank">LinkedIn</a>
-            <a href="https://orcid.org/0000-0002-7643-701X" target="_blank">ORCID</a>
+            <a href="GenAI-Arcade.net" target="_blank">GenAI Arcade</a>
             <a href="https://scholar.google.com.au/citations?user=rzyG0ucAAAAJ&hl=en" target="_blank">Google Scholar</a>
-            <a href="https://theconversation.com/profiles/kevin-witzenberger-2332896" target="_blank">The Conversation</a>
+            <a href="https://orcid.org/0000-0002-7643-701X" target="_blank">ORCID</a>
+
         </div>
         <div class="divider"></div>
         <p>© 2025 [Your Name] • <a href="mailto:[your-email]">[your-email]</a> • Brisbane, AU • Last updated June 2025</p>

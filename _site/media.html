@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Media - Kevin Witzenberger</title>
+    <title>media - Kevin Witzenberger</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         * {
@@ -102,14 +102,42 @@
             height: 1px;
             background-color: #e0e0e0;
         }
-        
+.about-container {
+    display: grid;
+    grid-template-columns: 1fr 200px;
+    gap: 30px;
+    align-items: start;
+}
+
+.headshot {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: 0;
+    display: block;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+    .headshot {
+        max-width: 150px;  /* Just smaller size, still right-aligned */
+    }
+}
+    
+    .headshot {
+        max-width: 200px;
+        margin: 0 auto;
+    }
+
         /* Desktop sidebar for contact info */
         .sidebar {
             position: fixed;
             left: 60px;
             top: 110px; /* Aligned with content start */
             width: 250px;
-            font-size: 15px;
+            font-size: 18px;
             line-height: 1.4;
         }
 
@@ -122,12 +150,12 @@
         .sidebar a {
             display: block;
             margin-bottom: 8px;
-            color: #666 !important;
+            color: #6830C4 !important;
             text-decoration: none;
         }
 
         .sidebar a:hover {
-            color: #6830C4 !important;
+            color: #666 !important;
         }
         
         /* Class for content dividers */
@@ -349,26 +377,154 @@
     </nav>
     
     <div class="sidebar">
-        <h4>Connect</h4>
+        <h3>Connect</h3>
         <a href="mailto:kevin.witzenberger@posteo.de">Email</a>
         <a href="https://linkedin.com/in/kevin-witzenberger/" target="_blank">LinkedIn</a>
-        <a href="https://orcid.org/0000-0002-7643-701X" target="_blank">ORCID</a>
+        <a href="GenAI-Arcade.net" target="_blank">GenAI Arcade</a>
         <a href="https://scholar.google.com.au/citations?user=rzyG0ucAAAAJ&hl=en" target="_blank">Google Scholar</a>
-        <a href="https://theconversation.com/profiles/kevin-witzenberger-2332896" target="_blank">The Conversation</a>
+        <a href="https://orcid.org/0000-0002-7643-701X" target="_blank">ORCID</a>
+
+        
     </div>
     
-    <h1 id="media">Media</h1>
+    <h1 id="media">media</h1>
 
-<p>Portfolio page placeholder - content coming later.</p>
+<p>My media work focuses on making AI research accessible to diverse audiences through public writing, podcast appearances, and interactive workshops. I bridge academic research and public understanding through engaging formats that help people navigate AI’s impact on society.</p>
+
+<hr />
+
+<h2 id="the-conversation-articles">The Conversation Articles</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Expert Contributor</strong></td>
+      <td><em>Reaching hundreds of thousands of readers globally</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>“A weird phrase is plaguing scientific papers – and we traced it back to a glitch in AI training data”</strong> (2025)<br />
+<em>Co-authors: Aaron Snoswell, Rayane El Masri</em><br />
+Breakthrough research on “digital fossils” in AI training data that gained international media coverage and viral social media sharing.<br />
+<a href="https://theconversation.com/a-weird-phrase-is-plaguing-scientific-papers-and-we-traced-it-back-to-a-glitch-in-ai-training-data-254463">Read article →</a></p>
+
+<p><strong>“Microsoft cuts data centre plans and hikes prices in push to make users carry AI costs”</strong> (2025)<br />
+<em>Co-author: Michael Richardson (UNSW)</em><br />
+Analysis of corporate AI cost-shifting strategies and their implications for users and organizations.<br />
+<a href="https://theconversation.com/microsoft-cuts-data-centre-plans-and-hikes-prices-in-push-to-make-users-carry-ai-costs-250932">Read article →</a></p>
+
+<hr />
+
+<h2 id="podcast-appearances">Podcast Appearances</h2>
+
+<p><strong>Media Futures Podcast</strong><br />
+Featured expert on predictive technologies in education and AI governance frameworks.</p>
+
+<p><strong>SoundCloud: “Spotlight: Kevin Witzenberger”</strong><br />
+Research profile interview discussing AI literacy, democratic technology assessment, and the Education Futures Studio.</p>
+
+<hr />
+
+<h2 id="interactive-workshops--public-demonstrations">Interactive Workshops &amp; Public Demonstrations</h2>
+
+<h3 id="ai-literacy--education">AI Literacy &amp; Education</h3>
+
+<p><strong>“Live Action Roleplay: Understanding Transformer Architecture”</strong><br />
+Interactive workshop demystifying how AI systems work through hands-on group activities. Participants experience the mechanics of transformer models through collaborative exercises.</p>
+
+<p><strong>“Build Your Own RAG (Retrieval-Augmented Generation) System”</strong><br />
+<em>ADM+S Centre of Excellence workshop series</em><br />
+Hands-on technical workshop teaching participants to create AI systems that can access and reason with external information sources.</p>
+
+<p><strong>“Communicating with GenAI” Professional Development Course</strong><br />
+Multi-session program designed for working professionals covering:</p>
+<ul>
+  <li>Effective AI engagement strategies</li>
+  <li>Understanding AI capabilities and limitations</li>
+  <li>Ethical considerations in AI use</li>
+  <li>Governance frameworks for organizational AI adoption</li>
+</ul>
+
+<h3 id="conference--public-speaking">Conference &amp; Public Speaking</h3>
+
+<p><strong>Queensland Association for Student Advisers Annual Meeting</strong> (2024)<br />
+“Preparing Students with the Skills Needed to Navigate an AI-Influenced Job Market”<br />
+Keynote presentation on AI literacy in higher education.</p>
+
+<p><strong>Weizenbaum Institute, Berlin</strong> (2024)<br />
+“Generative AI as digital media platform economy”<br />
+<em>Co-presenter: Jean Burgess</em><br />
+International research presentation on platform economics of AI systems.</p>
+
+<p><strong>RMIT Panel Discussion</strong> (2024)<br />
+“Wicked Problems: AI, Ethics, Ecologies”<br />
+<em>Panelists: Prof. Kylie Pappalardo, Prof. Deborah Lupton, Everado Reyes</em><br />
+<em>Moderator: Prof. Anthony McCosker</em><br />
+Public panel on complex challenges in AI governance and environmental impact.</p>
+
+<hr />
+
+<h2 id="media-coverage-of-research">Media Coverage of Research</h2>
+
+<h3 id="international-coverage">International Coverage</h3>
+
+<p><strong>Freethink</strong><br />
+“AI thinks ‘vegetative electron microscopy’ is real — it’s not”<br />
+Coverage of the “digital fossils” research discovery.</p>
+
+<p><strong>Mirage News</strong><br />
+Multiple articles covering research findings and policy implications.</p>
+
+<p><strong>Startup Daily</strong><br />
+Republication and analysis of AI policy research.</p>
+
+<p><strong>Various international technology blogs and forums</strong><br />
+Coverage of research on AI literacy, education governance, and democratic technology assessment.</p>
+
+<hr />
+
+<h2 id="platform-development--public-tools">Platform Development &amp; Public Tools</h2>
+
+<h3 id="genai-arcade">GenAI Arcade</h3>
+<p><strong>Interactive AI Literacy Platform</strong> | <a href="http://genai-arcade.net/">genai-arcade.net</a><br />
+Revolutionary hands-on learning platform that helps people understand AI through direct interaction rather than passive consumption. Features guided experiments and critical literacy components.</p>
+
+<h3 id="education-futures-studio-public-resources">Education Futures Studio Public Resources</h3>
+<p>Co-founder of public-facing research initiative providing:</p>
+<ul>
+  <li>AI governance frameworks for educational institutions</li>
+  <li>Democratic technology assessment toolkits</li>
+  <li>Policy briefings and white papers for public access</li>
+</ul>
+
+<hr />
+
+<h2 id="speaking-topics--expertise">Speaking Topics &amp; Expertise</h2>
+
+<p><strong>Available for interviews, panels, and workshops on:</strong></p>
+
+<ul>
+  <li><strong>AI Literacy &amp; Public Understanding:</strong> Making AI accessible without oversimplification</li>
+  <li><strong>Democratic Technology Governance:</strong> Participatory approaches to AI policy</li>
+  <li><strong>Education &amp; AI:</strong> Practical frameworks for institutional AI adoption</li>
+  <li><strong>Policy Translation:</strong> Converting research insights into actionable guidance</li>
+  <li><strong>Interactive Learning:</strong> Hands-on approaches to complex technology education</li>
+</ul>
+
+<hr />
+
+<p><em>For media inquiries, speaking engagements, or workshop development, contact: <a href="mailto:kevin.witzenberger@posteo.de">kevin.witzenberger@posteo.de</a></em></p>
 
     
     <footer>
         <div class="mobile-contact">
             <a href="mailto:kevin.witzenberger@posteo.de">Email</a>
             <a href="https://linkedin.com/in/kevin-witzenberger/" target="_blank">LinkedIn</a>
-            <a href="https://orcid.org/0000-0002-7643-701X" target="_blank">ORCID</a>
+            <a href="GenAI-Arcade.net" target="_blank">GenAI Arcade</a>
             <a href="https://scholar.google.com.au/citations?user=rzyG0ucAAAAJ&hl=en" target="_blank">Google Scholar</a>
-            <a href="https://theconversation.com/profiles/kevin-witzenberger-2332896" target="_blank">The Conversation</a>
+            <a href="https://orcid.org/0000-0002-7643-701X" target="_blank">ORCID</a>
+
         </div>
         <div class="divider"></div>
         <p>© 2025 [Your Name] • <a href="mailto:[your-email]">[your-email]</a> • Brisbane, AU • Last updated June 2025</p>

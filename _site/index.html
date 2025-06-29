@@ -102,14 +102,42 @@
             height: 1px;
             background-color: #e0e0e0;
         }
-        
+.about-container {
+    display: grid;
+    grid-template-columns: 1fr 200px;
+    gap: 30px;
+    align-items: start;
+}
+
+.headshot {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: 0;
+    display: block;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+    .headshot {
+        max-width: 150px;  /* Just smaller size, still right-aligned */
+    }
+}
+    
+    .headshot {
+        max-width: 200px;
+        margin: 0 auto;
+    }
+
         /* Desktop sidebar for contact info */
         .sidebar {
             position: fixed;
             left: 60px;
             top: 110px; /* Aligned with content start */
             width: 250px;
-            font-size: 15px;
+            font-size: 18px;
             line-height: 1.4;
         }
 
@@ -122,12 +150,12 @@
         .sidebar a {
             display: block;
             margin-bottom: 8px;
-            color: #666 !important;
+            color: #6830C4 !important;
             text-decoration: none;
         }
 
         .sidebar a:hover {
-            color: #6830C4 !important;
+            color: #666 !important;
         }
         
         /* Class for content dividers */
@@ -349,48 +377,52 @@
     </nav>
     
     <div class="sidebar">
-        <h4>Connect</h4>
+        <h3>Connect</h3>
         <a href="mailto:kevin.witzenberger@posteo.de">Email</a>
         <a href="https://linkedin.com/in/kevin-witzenberger/" target="_blank">LinkedIn</a>
-        <a href="https://orcid.org/0000-0002-7643-701X" target="_blank">ORCID</a>
+        <a href="GenAI-Arcade.net" target="_blank">GenAI Arcade</a>
         <a href="https://scholar.google.com.au/citations?user=rzyG0ucAAAAJ&hl=en" target="_blank">Google Scholar</a>
-        <a href="https://theconversation.com/profiles/kevin-witzenberger-2332896" target="_blank">The Conversation</a>
+        <a href="https://orcid.org/0000-0002-7643-701X" target="_blank">ORCID</a>
+
+        
     </div>
     
-    <h1 id="kevin-witzenberger">Kevin Witzenberger</h1>
+    <p><img src="/assets/headshot.jpg" alt="Kevin Witzenberger" class="headshot" /></p>
 
-<p><strong>AI Strategy &amp; Governance Expert</strong><br />
-Helping organisations navigate AI transformation through technical expertise, policy insight, and strategic communication.
-—</p>
+<h1 id="kevin-witzenberger">kevin witzenberger</h1>
 
-<hr class="grey" />
+<p>I’m a researcher at the intersection of AI and society, with a focus on generative AI. My work centers on a simple premise: <strong>better AI literacy creates better AI capabilities</strong>. Organizations don’t just need AI tools—they need people who can use them effectively and responsibly.</p>
+
+<p>Currently a Research Fellow at QUT’s GenAI Lab, affiliated investigator at the Centre of Excellence for Automated Decision Making, and co-founder of the Education Futures Studio at the University of Sydney. I hold a PhD in Science &amp; Technology Studies from UNSW, where I investigated how artificial intelligence shapes education governance.</p>
 
 <h2 id="what-i-do">What I Do</h2>
+
+<p>My background spans technical and social dimensions of AI. I can engage with system architectures and code, while also facilitating conversations between engineering teams and broader stakeholders. This allows me to:</p>
+
 <ul>
-  <li><strong>AI Strategy Development:</strong> 8+ years across all AI paradigms</li>
-  <li><strong>Risk &amp; Governance:</strong> Design frameworks for responsible AI implementation and regulatory compliance</li>
-  <li><strong>Stakeholder Management:</strong> Translate complex AI concepts for all audiences</li>
-  <li><strong>Policy Influence:</strong> Research cited in 18 government policy documents (UNESCO, European Commission)</li>
-  <li><strong>International Experience:</strong> German citizen with expertise across European</li>
+  <li><strong>Build AI capabilities through literacy:</strong> Design frameworks that help organizations harness AI potential effectively</li>
+  <li><strong>Bridge different perspectives:</strong> Work across technical teams, policymakers, executives, and communities</li>
+  <li><strong>Navigate policy landscapes:</strong> Research cited in 18 government documents (UNESCO, European Commission)</li>
+  <li><strong>Communicate across contexts:</strong> From technical discussions to public engagement (including journalism for Spiegel.de)</li>
 </ul>
 
 <hr />
 
 <h2 id="why-this-matters">Why This Matters</h2>
-<p>Modern AI implementation isn’t just a technical challenge—it’s a strategic one. Companies need leaders who understand both what AI can do and how to deploy it responsibly whilst navigating complex regulatory requirements. I bridge that gap.</p>
 
-<p>As co-founder of the Education Futures Studio and Research Fellow at QUT’s GenAI Lab, I’ve helped shape AI governance frameworks affecting millions of users. My background in professional journalism (Spiegel.de) and ongoing thought leadership (The Conversation) means I excel at making AI accessible to non-technical decision-makers.</p>
+<p>Many AI implementations struggle not because of technical limitations, but because organizations lack effective engagement strategies. I work on developing the literacy frameworks that help unlock AI’s potential.</p>
 
-<p>Whether you’re implementing AI transformation, managing regulatory compliance, or building organisational AI capabilities, I bring the unique combination of technical depth, policy expertise, and communication skills that successful AI deployment requires.</p>
+<p>Whether helping educational institutions navigate generative AI, advising governments on regulatory approaches, or building tools that help people understand AI systems—the goal is ensuring AI development works for people and communities.</p>
 
     
     <footer>
         <div class="mobile-contact">
             <a href="mailto:kevin.witzenberger@posteo.de">Email</a>
             <a href="https://linkedin.com/in/kevin-witzenberger/" target="_blank">LinkedIn</a>
-            <a href="https://orcid.org/0000-0002-7643-701X" target="_blank">ORCID</a>
+            <a href="GenAI-Arcade.net" target="_blank">GenAI Arcade</a>
             <a href="https://scholar.google.com.au/citations?user=rzyG0ucAAAAJ&hl=en" target="_blank">Google Scholar</a>
-            <a href="https://theconversation.com/profiles/kevin-witzenberger-2332896" target="_blank">The Conversation</a>
+            <a href="https://orcid.org/0000-0002-7643-701X" target="_blank">ORCID</a>
+
         </div>
         <div class="divider"></div>
         <p>© 2025 [Your Name] • <a href="mailto:[your-email]">[your-email]</a> • Brisbane, AU • Last updated June 2025</p>

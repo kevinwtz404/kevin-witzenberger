@@ -102,14 +102,42 @@
             height: 1px;
             background-color: #e0e0e0;
         }
-        
+.about-container {
+    display: grid;
+    grid-template-columns: 1fr 200px;
+    gap: 30px;
+    align-items: start;
+}
+
+.headshot {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: 0;
+    display: block;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+    .headshot {
+        max-width: 150px;  /* Just smaller size, still right-aligned */
+    }
+}
+    
+    .headshot {
+        max-width: 200px;
+        margin: 0 auto;
+    }
+
         /* Desktop sidebar for contact info */
         .sidebar {
             position: fixed;
             left: 60px;
             top: 110px; /* Aligned with content start */
             width: 250px;
-            font-size: 15px;
+            font-size: 18px;
             line-height: 1.4;
         }
 
@@ -122,12 +150,12 @@
         .sidebar a {
             display: block;
             margin-bottom: 8px;
-            color: #666 !important;
+            color: #6830C4 !important;
             text-decoration: none;
         }
 
         .sidebar a:hover {
-            color: #6830C4 !important;
+            color: #666 !important;
         }
         
         /* Class for content dividers */
@@ -349,26 +377,206 @@
     </nav>
     
     <div class="sidebar">
-        <h4>Connect</h4>
+        <h3>Connect</h3>
         <a href="mailto:kevin.witzenberger@posteo.de">Email</a>
         <a href="https://linkedin.com/in/kevin-witzenberger/" target="_blank">LinkedIn</a>
-        <a href="https://orcid.org/0000-0002-7643-701X" target="_blank">ORCID</a>
+        <a href="GenAI-Arcade.net" target="_blank">GenAI Arcade</a>
         <a href="https://scholar.google.com.au/citations?user=rzyG0ucAAAAJ&hl=en" target="_blank">Google Scholar</a>
-        <a href="https://theconversation.com/profiles/kevin-witzenberger-2332896" target="_blank">The Conversation</a>
+        <a href="https://orcid.org/0000-0002-7643-701X" target="_blank">ORCID</a>
+
+        
     </div>
     
     <h1 id="cv">cv</h1>
+<div class="contact-info">
+  <strong>Kevin Witzenberger, PhD</strong><br />
+  <strong>Email:</strong> kevin.witzenberger@posteo.de<br />
+  <strong>Mobile:</strong> (+61) 473 749 239<br />
+  <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/kevin-witzenberger/">linkedin.com/in/kevin-witzenberger/</a><br />
+  <strong>ORCID:</strong> <a href="https://orcid.org/0000-0002-7643-701X">0000-0002-7643-701X</a><br />
+  <strong>Google Scholar:</strong> <a href="https://scholar.google.com.au/citations?user=rzyG0ucAAAAJ&amp;hl=en">Profile Link</a>
+</div>
 
-<p>Portfolio page placeholder - content coming later.</p>
+<style>
+/* Desktop: right-aligned */
+.contact-info {
+  text-align: right;
+}
+
+/* Mobile: left-aligned */
+@media (max-width: 1024px) {
+  .contact-info {
+    text-align: left;
+  }
+}
+</style>
+
+<div style="margin: 30px 0;">
+  <a href="/assets/Kevin_Witzenberger_CV.pdf" download="" style="background-color: #6830C4; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold;">
+    Download PDF
+  </a>
+</div>
+
+<h2 id="profile-summary">Profile Summary</h2>
+
+<p>Researcher with expertise in AI and its societal impacts, backed by eight years of dedicated research. Currently a Research Fellow at the GenAI Lab, a specialist initiative exploring the potential of GenAI at QUT, an affiliated investigator at the Centre of Excellence for Automated Decision Making, and co-founder of the Education Futures Studio at the University of Sydney. Current research focuses on AI capabilities, specifically the literacies needed by users to use AI, and the technical potential and limits of transformer architecture to interact with users in specific social and cultural settings.</p>
+
+<p>Proven track record in leading interdisciplinary research projects, collaborating with cross-disciplinary teams, finding novel approaches for applying generative AI, and communicating complex findings to diverse stakeholders. Research impact includes citations in 18 policy documents from organisations such as UNESCO and the European Commission, 491 citations, an h-index of 6, and citations across 11 Scopus citing subject areas indicating a very broad reach.</p>
+
+<hr />
+
+<h2 id="education">Education</h2>
+
+<p><strong>PhD in Science &amp; Technology Studies | Media &amp; Information Technology (2023)</strong></p>
+<ul>
+  <li>University of New South Wales, Australia</li>
+  <li>Dissertation: Automating Education, investigating the emergence of Artificial Intelligence in education governance</li>
+  <li>Scientia PhD Scholarship recipient ($250,000 total package)</li>
+</ul>
+
+<p><strong>M.Sc. in Media and Communication Studies (2017)</strong></p>
+<ul>
+  <li>Lund University, Sweden</li>
+  <li>Dissertation: What Users Do to Algorithms, how everyday experiences shape algorithms</li>
+</ul>
+
+<p><strong>B.A. in Communication Science (2015)</strong></p>
+<ul>
+  <li>Otto-Friedrich-Universität Bamberg, Germany</li>
+</ul>
+
+<hr />
+
+<h2 id="professional-experience">Professional Experience</h2>
+
+<p><strong>Research Fellow – Generative AI Lab, Queensland University of Technology</strong> [April 2024 – Present]</p>
+<ul>
+  <li>Leading research projects on literacies for navigating GenAI</li>
+  <li>Leading research projects on emerging GenAI application across various societal domains</li>
+  <li>Research program design as investigator for “Critical Capabilities for Inclusive AI” at ADM+S</li>
+  <li>Supervising PhD researchers, public lectures, AI literacy workshops and grant writing</li>
+</ul>
+
+<p><strong>Senior Research Officer, University of Sydney</strong> [June 2020 – March 2024]</p>
+<ul>
+  <li>Led the project on Artificial Intelligence and Technical Democracy in Education</li>
+  <li>Designed AI impact assessment toolkits for education</li>
+  <li>Advised the NSW Department of Education &amp; Green party in Berlin on AI governance</li>
+</ul>
+
+<p><strong>Senior Research Officer, University of New South Wales</strong> [April 2023 – March 2024]</p>
+<ul>
+  <li>Led publication efforts on right to repair and circular economy concerning digital technology</li>
+  <li>Published white papers and interdisciplinary research projects on digital health technology</li>
+</ul>
+
+<p><strong>Lecturer, Convenor &amp; Tutor, School of Arts and Media, UNSW</strong> [May 2021 – March 2024]</p>
+<ul>
+  <li>Lectured, tutored &amp; developed courses on Media, Culture &amp; Technology, Working with Data and Media Futures</li>
+  <li>Coordinated courses for 100+ students per semester</li>
+  <li>Supervised 2 PhD students</li>
+</ul>
+
+<p><strong>Freelance Journalist, Spiegel.de</strong> [2014 – 2016]</p>
+<ul>
+  <li>Published articles including “Operation Shamrock,” “Ozon Hole Controversies,” and “Tomas Reichental”</li>
+  <li>German-language publications for major German media outlet</li>
+</ul>
+
+<hr />
+
+<h2 id="key-skills">Key Skills</h2>
+
+<p><strong>Research &amp; Analysis</strong></p>
+<ul>
+  <li>Project Management: Managed international stakeholder communication for a $40M AUD Centre of Excellence grant application</li>
+  <li>Interdisciplinary Research: Collaborated with engineering, humanities, and computer science disciplines</li>
+  <li>Data Analysis &amp; Methodology Innovation: Designed and published multiple research studies with novel methodologies</li>
+</ul>
+
+<p><strong>Communication &amp; Leadership</strong></p>
+<ul>
+  <li>Stakeholder Communication: Presented research to policymakers, academics and industry</li>
+  <li>Grant Writing &amp; Fundraising: Secured $512k AUD ARC Discovery Project as Co-Chief Investigator</li>
+  <li>Public Engagement: Contributing to The Conversation and other platforms for public understanding</li>
+</ul>
+
+<p><strong>Technical Capabilities</strong></p>
+<ul>
+  <li>AI Systems Development: Built GenAI Arcade platform using Gradio applications with custom AI integrations</li>
+  <li>Programming: Python, R, web development (HTML/CSS)</li>
+  <li>Research Software: NVivo, Atlas.ti, Qualtrics, LaTeX</li>
+</ul>
+
+<hr />
+
+<h2 id="awards--grants">Awards &amp; Grants</h2>
+
+<p><strong>ARC Discovery Project (Co-Chief Investigator):</strong> Generative AI and the future of academic writing and publishing (2025, DP250100074) – $512,000 AUD</p>
+
+<p><strong>Scientia PhD Scholarship (2018-2023)</strong> – $250,000 total package</p>
+<ul>
+  <li>$200,000 stipend over 4 years + covered tuition fees + $50,000 career development fund</li>
+  <li>UNSW’s most competitive doctoral funding program</li>
+</ul>
+
+<hr />
+
+<h2 id="professional-affiliations">Professional Affiliations</h2>
+
+<ul>
+  <li>Affiliated Investigator, ARC Centre of Excellence in Automated Decision-Making &amp; Society</li>
+  <li>Co-founder, Education Futures Studio (University of Sydney)</li>
+  <li>Member, Association of Internet Researchers (AoIR)</li>
+  <li>Member, Society for Social Studies of Science (4S)</li>
+</ul>
+
+<hr />
+
+<h2 id="selected-publications">Selected Publications</h2>
+
+<p><strong>Recent Work (2024-2025)</strong></p>
+<ul>
+  <li>Burgess, J., He, W., Snoswell, A. &amp; Witzenberger, K. (2024). Unboxing GenAI: Building capacities for public understanding of Generative AI. Available at SSRN</li>
+  <li>Mitchell, P., Riedlinger, M., Burgess, J., Snoswell, A., Witzenberger, K. &amp; Goldenfein, J. (2024). Research GenAI: Situating generative AI in the scholarly economy. Selected Papers in Internet Research 2024</li>
+  <li>Witzenberger, K., Swist, T. &amp; Gulson, K. (2024). Prototyping an EdTech Assessment Toolkit: Towards technical democracy. Selected Papers in Internet Research 2024</li>
+</ul>
+
+<p><strong>Key Academic Publications</strong></p>
+<ul>
+  <li>Williamson, B., Gulson, K., Perrotta, C., &amp; Witzenberger, K. (2022). Amazon and the new global connective architectures of education governance. <em>Harvard Educational Review</em>, 92(2), 231-256</li>
+  <li>Thompson, G., Gulson, K., Swist, T. &amp; Witzenberger, K. (2023). Responding to sociotechnical controversies in education: a modest proposal toward technical democracy. <em>Learning, Media and Technology</em>, 48(2), 240-252</li>
+  <li>Witzenberger, K. &amp; Gulson, K. (2021). Why EdTech is always right: students, data and machines in pre-emptive configurations. <em>Learning, Media and Technology</em>, 46(4), 420-434</li>
+  <li>Witzenberger, K. (2018). The Hyperdodge: How Users Resist Algorithmic Objects in Everyday Life. <em>Media Theory</em>, 2(2), 29-51</li>
+</ul>
+
+<p><strong>Full publication list:</strong> <a href="https://scholar.google.com.au/citations?user=rzyG0ucAAAAJ&amp;hl=en">Google Scholar Profile</a></p>
+
+<hr />
+
+<h2 id="media--public-engagement">Media &amp; Public Engagement</h2>
+
+<p><strong>The Conversation (Active Contributor)</strong></p>
+<ul>
+  <li>“A weird phrase is plaguing scientific papers – and we traced it back to a glitch in AI training data” (2025) - viral coverage of “digital fossils” research</li>
+  <li>“Microsoft cuts data centre plans and hikes prices in push to make users carry AI costs” (2025)</li>
+</ul>
+
+<p><strong>Platform Development</strong></p>
+<ul>
+  <li><strong>GenAI Arcade</strong> (<a href="http://genai-arcade.net/">genai-arcade.net</a>) - Interactive AI literacy platform</li>
+  <li><strong>“Communicating with GenAI”</strong> - Professional development course for AI engagement</li>
+</ul>
 
     
     <footer>
         <div class="mobile-contact">
             <a href="mailto:kevin.witzenberger@posteo.de">Email</a>
             <a href="https://linkedin.com/in/kevin-witzenberger/" target="_blank">LinkedIn</a>
-            <a href="https://orcid.org/0000-0002-7643-701X" target="_blank">ORCID</a>
+            <a href="GenAI-Arcade.net" target="_blank">GenAI Arcade</a>
             <a href="https://scholar.google.com.au/citations?user=rzyG0ucAAAAJ&hl=en" target="_blank">Google Scholar</a>
-            <a href="https://theconversation.com/profiles/kevin-witzenberger-2332896" target="_blank">The Conversation</a>
+            <a href="https://orcid.org/0000-0002-7643-701X" target="_blank">ORCID</a>
+
         </div>
         <div class="divider"></div>
         <p>© 2025 [Your Name] • <a href="mailto:[your-email]">[your-email]</a> • Brisbane, AU • Last updated June 2025</p>

@@ -102,14 +102,42 @@
             height: 1px;
             background-color: #e0e0e0;
         }
-        
+.about-container {
+    display: grid;
+    grid-template-columns: 1fr 200px;
+    gap: 30px;
+    align-items: start;
+}
+
+.headshot {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: 0;
+    display: block;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+    .headshot {
+        max-width: 150px;  /* Just smaller size, still right-aligned */
+    }
+}
+    
+    .headshot {
+        max-width: 200px;
+        margin: 0 auto;
+    }
+
         /* Desktop sidebar for contact info */
         .sidebar {
             position: fixed;
             left: 60px;
             top: 110px; /* Aligned with content start */
             width: 250px;
-            font-size: 15px;
+            font-size: 18px;
             line-height: 1.4;
         }
 
@@ -122,12 +150,12 @@
         .sidebar a {
             display: block;
             margin-bottom: 8px;
-            color: #666 !important;
+            color: #6830C4 !important;
             text-decoration: none;
         }
 
         .sidebar a:hover {
-            color: #6830C4 !important;
+            color: #666 !important;
         }
         
         /* Class for content dividers */
@@ -349,26 +377,156 @@
     </nav>
     
     <div class="sidebar">
-        <h4>Connect</h4>
+        <h3>Connect</h3>
         <a href="mailto:kevin.witzenberger@posteo.de">Email</a>
         <a href="https://linkedin.com/in/kevin-witzenberger/" target="_blank">LinkedIn</a>
-        <a href="https://orcid.org/0000-0002-7643-701X" target="_blank">ORCID</a>
+        <a href="GenAI-Arcade.net" target="_blank">GenAI Arcade</a>
         <a href="https://scholar.google.com.au/citations?user=rzyG0ucAAAAJ&hl=en" target="_blank">Google Scholar</a>
-        <a href="https://theconversation.com/profiles/kevin-witzenberger-2332896" target="_blank">The Conversation</a>
+        <a href="https://orcid.org/0000-0002-7643-701X" target="_blank">ORCID</a>
+
+        
     </div>
     
     <h1 id="writing">writing</h1>
 
-<p>Portfolio page placeholder - content coming later.</p>
+<p>My academic writing explores the intersection of AI and society, with particular focus on education governance, democratic technology assessment, and AI literacy. My work combines rigorous scholarship with practical applications for policy and institutional decision-making.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Full publication list:</strong> <a href="https://scholar.google.com.au/citations?user=rzyG0ucAAAAJ&amp;hl=en">Google Scholar Profile</a></td>
+      <td>**491 citations</td>
+      <td>h-index: 6**</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="recent-publications-2024-2025">Recent Publications (2024-2025)</h2>
+
+<p><strong>Burgess, J., He, W., Snoswell, A. &amp; Witzenberger, K.</strong> (2024). Unboxing GenAI: Building capacities for public understanding of Generative AI. <em>Available at SSRN</em>.<br />
+<a href="https://ssrn.com/abstract=4920305">View paper →</a></p>
+
+<p><strong>Mitchell, P., Riedlinger, M., Burgess, J., Snoswell, A., Witzenberger, K. &amp; Goldenfein, J.</strong> (2024). Research GenAI: Situating generative AI in the scholarly economy. <em>Selected Papers in Internet Research 2024</em>.<br />
+<a href="https://spir.aoir.org/ojs/index.php/spir/article/view/14006">View paper →</a></p>
+
+<p><strong>Witzenberger, K., Swist, T. &amp; Gulson, K.</strong> (2024). Prototyping an EdTech Assessment Toolkit: Towards technical democracy. <em>Selected Papers in Internet Research 2024</em>.<br />
+<a href="https://spir.aoir.org/ojs/index.php/spir/article/view/14077">View paper →</a></p>
+
+<p><strong>Kuai, W., Witzenberger, K., Manwaring et al.</strong> (2024). Modifiable Futures: A Right to Repair for Medical Devices and Assistive Technologies. <em>UNSW Law Research Paper No. 24-38</em>.<br />
+<a href="http://dx.doi.org/10.2139/ssrn.5035345">View paper →</a></p>
+
+<hr />
+
+<h2 id="major-journal-publications">Major Journal Publications</h2>
+
+<p><strong>Williamson, B., Gulson, K., Perrotta, C., &amp; Witzenberger, K.</strong> (2022). Amazon and the new global connective architectures of education governance. <em>Harvard Educational Review</em>, 92(2), 231-256.<br />
+<em>Critical analysis of tech giant influence on educational governance. Featured in Harvard Educational Review’s platform studies symposium. 65+ citations.</em><br />
+<a href="https://doi.org/10.17763/1943-5045-92.2.231">View paper →</a></p>
+
+<p><strong>Thompson, G., Gulson, K., Swist, T. &amp; Witzenberger, K.</strong> (2023). Responding to sociotechnical controversies in education: a modest proposal toward technical democracy. <em>Learning, Media and Technology</em>, 48(2), 240-252.<br />
+<em>Foundational framework for democratic AI governance in education. Practical methodologies for participatory technology assessment.</em><br />
+<a href="https://doi.org/10.1080/17439884.2022.2126495">View paper →</a></p>
+
+<p><strong>Witzenberger, K. &amp; Gulson, K.</strong> (2021). Why EdTech is always right: students, data and machines in pre-emptive configurations. <em>Learning, Media and Technology</em>, 46(4), 420-434.<br />
+<em>Theoretical innovation: pre-emptive configuration theory applied to educational AI systems.</em><br />
+<a href="https://doi.org/10.1080/17439884.2021.1913181">View paper →</a></p>
+
+<p><strong>Gulson, K. &amp; Witzenberger, K.</strong> (2022). Repackaging authority: artificial intelligence, automated governance and education trade shows. <em>Journal of Education Policy</em>, 37(1), 145-160.<br />
+<em>Multi-sited ethnographic research on corporate AI influence in education policy formation.</em><br />
+<a href="https://doi.org/10.1080/02680939.2020.1785552">View paper →</a></p>
+
+<p><strong>Perrotta, C., Gulson, K., Williamson, B. &amp; Witzenberger, K.</strong> (2021). Automation, APIs and the distributed labour of platform pedagogies in Google Classroom. <em>Critical Studies in Education</em>, 62(1), 97-113.<br />
+<em>Critical platform studies analysis of educational technology labor relations.</em><br />
+<a href="https://doi.org/10.1080/17508487.2020.1855597">View paper →</a></p>
+
+<p><strong>Witzenberger, K.</strong> (2018). The Hyperdodge: How Users Resist Algorithmic Objects in Everyday Life. <em>Media Theory</em>, 2(2), 29-51.<br />
+<em>Breakthrough early-career publication. Phenomenological approach to algorithm studies. 85+ citations.</em><br />
+<a href="https://doi.org/10.70064/mt.v2i2.954">View paper →</a></p>
+
+<hr />
+
+<h2 id="book-chapters">Book Chapters</h2>
+
+<p><strong>Gulson, K., Murphie, A. &amp; Witzenberger, K.</strong> (2021). Amazon Go for education? Artificial Intelligence, disruption and intensification. In C. Wyatt-Smith, B. Lingard &amp; E. Heck (Eds.), <em>Digital Disruption in Teaching and Testing: Assessments, Big Data, and the Transformation of Schooling</em>. Routledge.<br />
+<a href="https://doi.org/10.4324/9781003045793">View chapter →</a></p>
+
+<hr />
+
+<h2 id="dissertation--thesis-work">Dissertation &amp; Thesis Work</h2>
+
+<p><strong>Witzenberger, K.</strong> (2023). <em>Automating Education: Investigating the emergence of Artificial Intelligence in education governance.</em> PhD dissertation, University of New South Wales.<br />
+<em>Comprehensive analysis of AI’s impact on educational governance structures and democratic participation.</em></p>
+
+<p><strong>Witzenberger, K.</strong> (2018). What Users Do to Algorithms: How everyday experiences and imagination shape algorithmic outcomes. In T. Linné (ed.), <em>Excellent MSc Dissertations 2017</em>. Lund University Press.<br />
+<em>Published in university’s collection of outstanding graduate work.</em></p>
+
+<hr />
+
+<h2 id="early-academic-contributions">Early Academic Contributions</h2>
+
+<p><strong>Witzenberger, K.</strong> (2015). Zitieren und Paraphrasieren [Citation and Paraphrasing]. In G. Mehling (ed.), <em>Propädeutik für Studierende der Kommunikationswissenschaft</em>. Bamberg University Press, pp. 155-170.</p>
+
+<p><strong>Witzenberger, K.</strong> (2015). Hausarbeiten schreiben [Writing Academic Papers]. In G. Mehling (ed.), <em>Propädeutik für Studierende der Kommunikationswissenschaft</em>. Bamberg University Press, pp. 195-214.</p>
+
+<hr />
+
+<h2 id="conference-presentations">Conference Presentations</h2>
+
+<h3 id="international-academic-conferences">International Academic Conferences</h3>
+
+<p><strong>Association of Internet Researchers (AoIR)</strong></p>
+<ul>
+  <li>2024: Sheffield, UK - “Prototyping an EdTech assessment toolkit: towards technical democracy”</li>
+  <li>2024: Sheffield, UK - “Research GenAI: Situating generative AI in the scholarly economy”</li>
+  <li>2020: Brisbane, Australia - “Measured Education: Sensing, configuring, and intervening with advanced media”</li>
+  <li>2019: Brisbane, Australia - “Pressure Controls, Data forces creeping through fingertip commands”</li>
+</ul>
+
+<p><strong>European Association for the Study of Science and Technology (4S/EASST)</strong></p>
+<ul>
+  <li>2024: Amsterdam, Netherlands - “Regulatory imaginaries of generative AI and high frequency trading algorithms: lessons from the 2008 financial crisis for the future regulation of AI”</li>
+  <li>2022: Madrid, Spain - “Automated Learning: A speculative learning machine”</li>
+  <li>2020: Prague, Czech Republic - “Reconfiguring the Student: Stabilizing the optimisable biosocial subject”</li>
+</ul>
+
+<p><strong>Australian Association for Research in Education (AARE)</strong></p>
+<ul>
+  <li>2022: Adelaide, Australia - “A Covid Controversies Timeline: Automated Decision-Making and Education” (with Gulson, Gregg &amp; Swist)</li>
+  <li>2021: Online - Educational datafication and automated decision-making symposium</li>
+</ul>
+
+<p><strong>Specialized Academic Venues</strong></p>
+<ul>
+  <li>2022: Digital Education Governance Conference - “The Hinterland of Automated Learning”</li>
+  <li>2020: Centre for Research in Digital Education, Edinburgh - “Automated Education Governance” (Invited seminar)</li>
+  <li>2018: Media Freedom Conference, Lund University - “What Users Do to Algorithms”</li>
+</ul>
+
+<hr />
+
+<h2 id="research-impact">Research Impact</h2>
+
+<p><strong>Policy Influence:</strong> Research cited in 18 policy documents from UNESCO, European Commission, and national governments</p>
+
+<p><strong>Cross-disciplinary Reach:</strong> Citations across 11 Scopus subject areas including education, computer science, media studies, and public policy</p>
+
+<p><strong>International Recognition:</strong> Publications in top-tier journals spanning North America, Europe, and Australia</p>
+
+<hr />
+
+<p><em>Complete publication metrics available on <a href="https://scholar.google.com.au/citations?user=rzyG0ucAAAAJ&amp;hl=en">Google Scholar</a> and <a href="https://orcid.org/0000-0002-7643-701X">ORCID</a>.</em></p>
 
     
     <footer>
         <div class="mobile-contact">
             <a href="mailto:kevin.witzenberger@posteo.de">Email</a>
             <a href="https://linkedin.com/in/kevin-witzenberger/" target="_blank">LinkedIn</a>
-            <a href="https://orcid.org/0000-0002-7643-701X" target="_blank">ORCID</a>
+            <a href="GenAI-Arcade.net" target="_blank">GenAI Arcade</a>
             <a href="https://scholar.google.com.au/citations?user=rzyG0ucAAAAJ&hl=en" target="_blank">Google Scholar</a>
-            <a href="https://theconversation.com/profiles/kevin-witzenberger-2332896" target="_blank">The Conversation</a>
+            <a href="https://orcid.org/0000-0002-7643-701X" target="_blank">ORCID</a>
+
         </div>
         <div class="divider"></div>
         <p>© 2025 [Your Name] • <a href="mailto:[your-email]">[your-email]</a> • Brisbane, AU • Last updated June 2025</p>
