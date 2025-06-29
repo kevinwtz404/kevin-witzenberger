@@ -6,8 +6,7 @@ title: cv
 # cv
 <div class="contact-info">
   <strong>Kevin Witzenberger, PhD</strong><br>
-  <strong>Email:</strong> kevin.witzenberger@posteo.de<br>
-  <strong>Mobile:</strong> (+61) 473 749 239<br>
+  <strong>Email:</strong> kevin.witzenberger(at)posteo.de<br>
   <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/kevin-witzenberger/">linkedin.com/in/kevin-witzenberger/</a><br>
   <strong>ORCID:</strong> <a href="https://orcid.org/0000-0002-7643-701X">0000-0002-7643-701X</a><br>
   <strong>Google Scholar:</strong> <a href="https://scholar.google.com.au/citations?user=rzyG0ucAAAAJ&hl=en">Profile Link</a>
@@ -34,120 +33,126 @@ title: cv
   </a>
 </div>
 
+## profile summary
 
-## Profile Summary
+AI strategy advisor who helps organisations navigate the possibilities and risks of AI implementation. Eight years of research experience spanning technical development, policy governance, and stakeholder engagement across government, industry, and academic sectors.
 
-Researcher with expertise in AI and its societal impacts, backed by eight years of dedicated research. Currently a Research Fellow at the GenAI Lab, a specialist initiative exploring the potential of GenAI at QUT, an affiliated investigator at the Centre of Excellence for Automated Decision Making, and co-founder of the Education Futures Studio at the University of Sydney. Current research focuses on AI capabilities, specifically the literacies needed by users to use AI, and the technical potential and limits of transformer architecture to interact with users in specific social and cultural settings.
-
-Proven track record in leading interdisciplinary research projects, collaborating with cross-disciplinary teams, finding novel approaches for applying generative AI, and communicating complex findings to diverse stakeholders. Research impact includes citations in 18 policy documents from organisations such as UNESCO and the European Commission, 491 citations, an h-index of 6, and citations across 11 Scopus citing subject areas indicating a very broad reach.
+Currently Research Fellow at QUT's GenAI Lab, affiliated investigator at the ARC Centre of Excellence for Automated Decision-Making + Society, and co-founder of Education Futures Studio. Combines technical understanding with strategic thinking to translate AI capabilities into practical organisational frameworks.
 
 ---
 
-## Education
+## education
 
 **PhD in Science & Technology Studies | Media & Information Technology (2023)**
 - University of New South Wales, Australia
-- Dissertation: Automating Education, investigating the emergence of Artificial Intelligence in education governance
-- Scientia PhD Scholarship recipient ($250,000 total package)
+- **Scientia PhD Scholarship recipient** - awarded to top 5% of applicants after competitive two-stage selection process
+- Dissertation: How artificial intelligence reshapes organisational governance structures
+- Total scholarship value: $250,000 (stipend, fees, career development fund)
 
 **M.Sc. in Media and Communication Studies (2017)**
 - Lund University, Sweden
-- Dissertation: What Users Do to Algorithms, how everyday experiences shape algorithms
+- Dissertation: User agency within algorithmic systems - published in university's collection of outstanding graduate work
 
 **B.A. in Communication Science (2015)**
 - Otto-Friedrich-Universität Bamberg, Germany
 
 ---
 
-## Professional Experience
+## professional experience
 
-**Research Fellow – Generative AI Lab, Queensland University of Technology** [April 2024 – Present]
-- Leading research projects on literacies for navigating GenAI
-- Leading research projects on emerging GenAI application across various societal domains
-- Research program design as investigator for "Critical Capabilities for Inclusive AI" at ADM+S
-- Supervising PhD researchers, public lectures, AI literacy workshops and grant writing
+**Research Fellow – GenAI Lab, Queensland University of Technology** [April 2024 – Present]
+- Leading research programmes on AI capability development and public engagement strategies
+- Managing "Critical Capabilities for Inclusive AI" research stream within national $35M centre of excellence
+- Supervising PhD researchers and coordinating international collaborative projects
 
 **Senior Research Officer, University of Sydney** [June 2020 – March 2024]
-- Led the project on Artificial Intelligence and Technical Democracy in Education
-- Designed AI impact assessment toolkits for education
-- Advised the NSW Department of Education & Green party in Berlin on AI governance
+- Led AI governance project spanning technical assessment, policy development, and stakeholder engagement
+- Designed and deployed AI impact assessment frameworks for institutional decision-making
+- Managed stakeholder relationships across government, industry, and community sectors
 
 **Senior Research Officer, University of New South Wales** [April 2023 – March 2024]
-- Led publication efforts on right to repair and circular economy concerning digital technology
-- Published white papers and interdisciplinary research projects on digital health technology
+- Directed research initiatives on technology governance and digital policy
+- Published strategic analysis for government and industry on emerging technology regulation
 
-**Lecturer, Convenor & Tutor, School of Arts and Media, UNSW** [May 2021 – March 2024]
-- Lectured, tutored & developed courses on Media, Culture & Technology, Working with Data and Media Futures
-- Coordinated courses for 100+ students per semester
-- Supervised 2 PhD students
+**Lecturer & Course Convenor, University of New South Wales** [May 2021 – March 2024]
+- Developed and delivered courses on technology, data analysis, and digital futures to 100+ students per semester
+- Supervised research projects and mentored emerging researchers
 
 **Freelance Journalist, Spiegel.de** [2014 – 2016]
-- Published articles including "Operation Shamrock," "Ozon Hole Controversies," and "Tomas Reichental"
-- German-language publications for major German media outlet
+- Investigative journalism for major German media outlet
+- Published articles including "Operation Shamrock," "Ozone Hole Controversies," and profile interviews
 
 ---
 
-## Key Skills
+## key achievements
 
-**Research & Analysis**
-- Project Management: Managed international stakeholder communication for a $40M AUD Centre of Excellence grant application
-- Interdisciplinary Research: Collaborated with engineering, humanities, and computer science disciplines
-- Data Analysis & Methodology Innovation: Designed and published multiple research studies with novel methodologies
+**grant leadership & project management**
+- **Co-Chief Investigator, ARC Discovery Project:** $512,000 for "Generative AI and the future of academic writing and publishing" (2025-2027)
+- **Contributed to $38M research proposal development:** Coordinated partnerships across tech companies, telecommunications, humanitarian organisations, public institutions, and international universities
 
-**Communication & Leadership**
-- Stakeholder Communication: Presented research to policymakers, academics and industry
-- Grant Writing & Fundraising: Secured $512k AUD ARC Discovery Project as Co-Chief Investigator
-- Public Engagement: Contributing to The Conversation and other platforms for public understanding
+**policy impact & government advisory**
+- **Research cited in 18 policy documents** from UNESCO, European Commission, and national governments
+- **NSW Framework for GenAI in Schools:** Academic advisor on development and implementation affecting hundreds of thousands of students
+- **Education Futures Studio co-founder:** Recognised by government agencies as leading voice in AI policy
+- **International policy engagement:** Presented to European policymakers on AI governance
 
-**Technical Capabilities**
-- AI Systems Development: Built GenAI Arcade platform using Gradio applications with custom AI integrations
-- Programming: Python, R, web development (HTML/CSS)
-- Research Software: NVivo, Atlas.ti, Qualtrics, LaTeX
-
----
-
-## Awards & Grants
-
-**ARC Discovery Project (Co-Chief Investigator):** Generative AI and the future of academic writing and publishing (2025, DP250100074) – $512,000 AUD
-
-**Scientia PhD Scholarship (2018-2023)** – $250,000 total package
-- $200,000 stipend over 4 years + covered tuition fees + $50,000 career development fund
-- UNSW's most competitive doctoral funding program
+**research impact & public engagement**
+- **491 citations** across 11 academic disciplines demonstrating cross-sector reach
+- **Contributing expert, The Conversation:** Articles reaching broad public audiences on AI governance
+- **Media coverage:** Research featured in international outlets including breakthrough work on AI training data integrity
 
 ---
 
-## Professional Affiliations
+## core skills
 
-- Affiliated Investigator, ARC Centre of Excellence in Automated Decision-Making & Society
-- Co-founder, Education Futures Studio (University of Sydney)
-- Member, Association of Internet Researchers (AoIR)
-- Member, Society for Social Studies of Science (4S)
+**strategic & leadership**
+- Complex project management across government, industry, and academic sectors
+- Multi-stakeholder coordination and relationship management
+- Change management for technology adoption and organisational transformation
+
+**AI & technology expertise**
+- Technical literacy: can engage with code and system architectures while maintaining strategic focus
+- AI governance: practical frameworks for responsible implementation and risk assessment
+- Technology assessment: democratic approaches to evaluating emerging technologies
+- Regulatory understanding: AI policy development across multiple jurisdictions
+
+**communication & engagement**
+- Executive briefing and presentation to government ministers and industry leaders
+- Public communication through journalism, academic publishing, and media engagement
+- Training programme development and delivery for diverse professional audiences
+
+**languages & international experience**
+- German (native), English (fluent)
+- European Union citizenship with work authorisation across EU markets
+- Research and professional experience across Germany, Sweden, and Australia
 
 ---
 
-## Selected Publications
+## professional affiliations
 
-**Recent Work (2024-2025)**
-- Burgess, J., He, W., Snoswell, A. & Witzenberger, K. (2024). Unboxing GenAI: Building capacities for public understanding of Generative AI. Available at SSRN
-- Mitchell, P., Riedlinger, M., Burgess, J., Snoswell, A., Witzenberger, K. & Goldenfein, J. (2024). Research GenAI: Situating generative AI in the scholarly economy. Selected Papers in Internet Research 2024
-- Witzenberger, K., Swist, T. & Gulson, K. (2024). Prototyping an EdTech Assessment Toolkit: Towards technical democracy. Selected Papers in Internet Research 2024
-
-**Key Academic Publications**
-- Williamson, B., Gulson, K., Perrotta, C., & Witzenberger, K. (2022). Amazon and the new global connective architectures of education governance. *Harvard Educational Review*, 92(2), 231-256
-- Thompson, G., Gulson, K., Swist, T. & Witzenberger, K. (2023). Responding to sociotechnical controversies in education: a modest proposal toward technical democracy. *Learning, Media and Technology*, 48(2), 240-252
-- Witzenberger, K. & Gulson, K. (2021). Why EdTech is always right: students, data and machines in pre-emptive configurations. *Learning, Media and Technology*, 46(4), 420-434
-- Witzenberger, K. (2018). The Hyperdodge: How Users Resist Algorithmic Objects in Everyday Life. *Media Theory*, 2(2), 29-51
-
-**Full publication list:** [Google Scholar Profile](https://scholar.google.com.au/citations?user=rzyG0ucAAAAJ&hl=en)
+- **Affiliated Investigator:** ARC Centre of Excellence for Automated Decision-Making & Society
+- **Co-founder:** Education Futures Studio, University of Sydney
+- **Member:** Association of Internet Researchers (AoIR)
+- **Member:** Society for Social Studies of Science (4S)
 
 ---
 
-## Media & Public Engagement
+## selected publications
 
-**The Conversation (Active Contributor)**
-- "A weird phrase is plaguing scientific papers – and we traced it back to a glitch in AI training data" (2025) - viral coverage of "digital fossils" research
-- "Microsoft cuts data centre plans and hikes prices in push to make users carry AI costs" (2025)
+- Burgess, J., He, W., Snoswell, A. & **Witzenberger, K.** (2024). Unboxing GenAI: Building capacities for public understanding of Generative AI. Available at SSRN: https://ssrn.com/abstract=4920305
 
-**Platform Development**
-- **GenAI Arcade** ([genai-arcade.net](http://genai-arcade.net/)) - Interactive AI literacy platform
-- **"Communicating with GenAI"** - Professional development course for AI engagement
+- Mitchell, P., Riedlinger, M., Burgess, J., Snoswell, A., **Witzenberger, K.** & Goldenfein, J. (2024). Research GenAI: Situating generative AI in the scholarly economy. Selected Papers in Internet Research 2024.
+
+- **Witzenberger, K.**, Swist, T. & Gulson, K. (2024). Prototyping an EdTech Assessment Toolkit: Towards technical democracy. Selected Papers in Internet Research 2024.
+
+- Williamson, B., Gulson, K., Perrotta, C., & **Witzenberger, K.** (2022). Amazon and the new global connective architectures of education governance. Harvard Educational Review, 92(2), 231-256.
+
+- Perrotta, C., Gulson, K., Williamson, B. & **Witzenberger, K.** (2021). Automation, APIs and the distributed labour of platform pedagogies in Google Classroom. Critical Studies in Education, 62(1), 97-113.
+
+- Thompson, G., Gulson, K., Swist, T. & **Witzenberger, K.** (2023). Responding to sociotechnical controversies in education: A modest proposal toward technical democracy. Learning, Media and Technology, 48(2), 240-252.
+
+- **Witzenberger, K.** & Gulson, K. (2021). Why EdTech is always right: students, data and machines in pre-emptive configurations. Learning, Media and Technology, 46(4), 420-434.
+
+- Gulson, K. & **Witzenberger, K.** (2022). Repackaging authority: Artificial intelligence, automated governance and education trade shows. Journal of Education Policy, 37(1), 145-160.
+
+**Complete publication list:** [Google Scholar Profile](https://scholar.google.com.au/citations?user=rzyG0ucAAAAJ&hl=en)

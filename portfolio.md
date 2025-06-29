@@ -5,31 +5,44 @@ title: portfolio
 
 # portfolio
 
-## GenAI Arcade: Interactive AI Literacy Platform
+## genAI arcade: interactive ai literacy platform
 
-**Challenge:** Most AI education is either too technical for general users or too superficial to be useful. People need hands-on experience to understand AI capabilities and limitations, but existing resources don't bridge this gap effectively.
+Understanding generative AI is challenging when most resources are either too technical, gloss over environmental costs, or present apocalyptic scenarios. The GenAI Arcade addresses this gap by letting people learn about AI through direct interaction rather than passive consumption.
 
-**Solution:** I developed GenAI Arcade—an interactive platform that lets people learn about AI by actually using it. Rather than reading about AI, users experiment with different AI systems through guided activities and games.
+The platform features interactive games that reveal both AI capabilities and limitations. Users experiment with different AI systems, testing boundaries and exploring what happens when pushed in unexpected directions. No technical background or coding knowledge required.
 
-### What It Does
-- **Learning Through Interaction:** Users engage directly with AI systems to understand how they work
-- **Critical Literacy:** Addresses not just capabilities but also limitations, environmental costs, and responsible use
-- **Accessible Design:** No technical background required, but provides genuine understanding
-- **Practical Focus:** Teaches when to use AI, when to avoid it, and how to use it effectively
+### approach
 
-### Technical Implementation
-Built using Gradio applications with custom AI integrations I configured across multiple platforms. The modular design allows for easy expansion and adaptation to different learning contexts.
+* **Learning through experimentation:** Direct interaction with AI systems rather than theoretical explanations
+* **Critical engagement:** Addresses environmental costs, corporate accountability, and realistic limitations alongside capabilities
+* **Practical skills development:** Teaches better prompting, when to choose AI over simpler tools, and how to evaluate AI outputs
+* **Democratic participation:** Empowers users to make informed decisions about AI adoption and hold developers accountable
 
-### Why This Matters
-Organizations investing in AI need their people to actually understand these tools. GenAI Arcade demonstrates a new approach to AI literacy that could be adapted for:
-- **Corporate training programs** for AI transformation initiatives
-- **Executive education** on AI capabilities and limitations  
-- **Client education** for technology companies
-- **Public engagement** around AI policy and governance
+### outcomes
 
-**Visit the platform:** [genai-arcade.net](http://genai-arcade.net/)
+The platform helps users develop practical AI literacy: writing better prompts, understanding environmental trade-offs, seeing through marketing claims, and making informed decisions about when to use or avoid AI tools.
 
-*This project represents my approach to AI literacy: hands-on, critical, and focused on empowering people to engage effectively with AI systems.*
+### technical implementation
+
+Built using modular Gradio applications with custom AI integrations. Designed for adaptability across organisational contexts.
+
+**Platform:** [genai-arcade.net](http://genai-arcade.net/)
 
 ---
+
+## ai literacy & professional development
+
+**Faculty Development Sessions** - Interactive discussions on generative AI capabilities, challenges, and implications for academic work. Sessions cover the distinction between analytical and generative AI, productivity applications, and critical reflections on environmental costs and responsible use.
+
+**Interactive AI Architecture Sessions** - Tactile workshops where participants experience transformer architecture by acting out computational processes, providing an accessible way to understand the mechanics behind systems like ChatGPT.
+
+**Retrieval Augmented Generation (RAG) Workshops** - Technical workshops teaching participants to build their own RAG systems, vectorise databases, and explore how to augment large language models with custom data.
+
+---
+
+## policy development & advisory
+
+Research cited in 18 policy documents from organisations including UNESCO and the European Commission, with input to policy decisions at state and federal levels across Australia and Europe. This includes public engagement with European policymakers through lectures on automation to the Green Party's Bildung working group in Berlin.
+
+Education Futures Studio: Co-founded research initiative recognised by government agencies as a leading voice in AI policy. Provided academic advisory work on the NSW Framework for Generative AI in Schools, adopted across the NSW school system affecting hundreds of thousands of students.
 

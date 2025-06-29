@@ -3,31 +3,34 @@ layout: default
 title: about
 ---
 
+# kevin witzenberger
+
 <div class="bio-container">
 <img src="/assets/headshot.jpg" alt="Kevin Witzenberger" class="headshot">
 
 <div class="bio-text" markdown="1">
 
+## about
+I'm a researcher at the intersection of AI and society, with a focus on generative AI. My work centres on a core principle: **better AI literacy creates better AI capabilities**. Organisations don't just need AI tools—they need people who understand the opportunities and risks of these technologies.
 
-# kevin witzenberger
-
-I'm a researcher at the intersection of AI and society, with a focus on generative AI. My work centers on a simple premise: **better AI literacy creates better AI capabilities**. Organizations don't just need AI tools—they need people who can use them effectively and responsibly.
-
-Currently a Research Fellow at QUT's GenAI Lab, affiliated investigator at the Centre of Excellence for Automated Decision Making, and co-founder of the Education Futures Studio at the University of Sydney. I hold a PhD in Science & Technology Studies from UNSW, where I investigated how artificial intelligence shapes education governance.
-
-## What I Do
-
-My background spans technical and social dimensions of AI. I can engage with system architectures and code, while also facilitating conversations between engineering teams and broader stakeholders. This allows me to:
-
-- **Build AI capabilities through literacy:** Design frameworks that help organizations harness AI potential effectively
-- **Bridge different perspectives:** Work across technical teams, policymakers, executives, and communities  
-- **Navigate policy landscapes:** Research cited in 18 government documents (UNESCO, European Commission) 
-- **Communicate across contexts:** From technical discussions to public engagement (including journalism for Spiegel.de)
+Currently a Research Fellow at QUT's GenAI Lab, affiliated investigator at the ARC CoE in Automated Decision-Making + Society, and co-founder of the Education Futures Studio at the University of Sydney. I hold a PhD in Science & Technology Studies from UNSW, where I investigated how artificial intelligence shapes education governance. I have 7 years of research experience examining the impact of AI technologies across various sectors.
 
 ---
 
-## Why This Matters
+## what I do
 
-Many AI implementations struggle not because of technical limitations, but because organizations lack effective engagement strategies. I work on developing the literacy frameworks that help unlock AI's potential.
+My background spans technical and social dimensions of AI. I can engage with system architectures and code, while also facilitating conversations between engineering teams and broader stakeholders. My experience includes:
 
-Whether helping educational institutions navigate generative AI, advising governments on regulatory approaches, or building tools that help people understand AI systems—the goal is ensuring AI development works for people and communities.
+* **building AI literacy through professional development:** Leading workshops for organisational professionals, creating interactive platforms, and developing curricula that help organisations implement AI while understanding its constraints
+* **bridging multiple perspectives:** Working across technical teams, policymakers, end users, executives, and community stakeholders
+* **establishing thought leadership:** Co-founding Education Futures Studio, developing technical democracy frameworks, and contributing to public discourse through platforms like The Conversation
+* **influencing governance frameworks:** Research cited in government documents from UNESCO to the European Commission, with input to state and federal policymakers
+* **communicating across contexts:** From technical discussions to public lectures, media engagement, and academic publications
+
+---
+
+## why this matters
+
+AI implementations often fail not due to technical limitations, but because organisations struggle to distinguish between actual capabilities and inflated claims. My work focuses on creating practical frameworks that bridge this knowledge gap.
+
+This includes establishing new approaches to AI literacy, contributing to public discourse through media engagement, and developing governance frameworks that help institutions make informed decisions about AI adoption.

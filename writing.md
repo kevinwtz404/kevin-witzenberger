@@ -73,28 +73,20 @@ My academic writing explores the intersection of AI and society, with particular
 
 ---
 
-## Early Academic Contributions
-
-**Witzenberger, K.** (2015). Zitieren und Paraphrasieren [Citation and Paraphrasing]. In G. Mehling (ed.), *Propädeutik für Studierende der Kommunikationswissenschaft*. Bamberg University Press, pp. 155-170.
-
-**Witzenberger, K.** (2015). Hausarbeiten schreiben [Writing Academic Papers]. In G. Mehling (ed.), *Propädeutik für Studierende der Kommunikationswissenschaft*. Bamberg University Press, pp. 195-214.
-
----
-
 ## Conference Presentations
 
 ### International Academic Conferences
+
+**European Association for the Study of Science and Technology (4S/EASST)**
+- 2024: Amsterdam, Netherlands - "Regulatory imaginaries of generative AI and high frequency trading algorithms: lessons from the 2008 financial crisis for the future regulation of AI"
+- 2022: Madrid, Spain - "Automated Learning: A speculative learning machine"
+- 2020: Prague, Czech Republic - "Reconfiguring the Student: Stabilizing the optimisable biosocial subject"
 
 **Association of Internet Researchers (AoIR)**
 - 2024: Sheffield, UK - "Prototyping an EdTech assessment toolkit: towards technical democracy"
 - 2024: Sheffield, UK - "Research GenAI: Situating generative AI in the scholarly economy" 
 - 2020: Brisbane, Australia - "Measured Education: Sensing, configuring, and intervening with advanced media"
 - 2019: Brisbane, Australia - "Pressure Controls, Data forces creeping through fingertip commands"
-
-**European Association for the Study of Science and Technology (4S/EASST)**
-- 2024: Amsterdam, Netherlands - "Regulatory imaginaries of generative AI and high frequency trading algorithms: lessons from the 2008 financial crisis for the future regulation of AI"
-- 2022: Madrid, Spain - "Automated Learning: A speculative learning machine"
-- 2020: Prague, Czech Republic - "Reconfiguring the Student: Stabilizing the optimisable biosocial subject"
 
 **Australian Association for Research in Education (AARE)**
 - 2022: Adelaide, Australia - "A Covid Controversies Timeline: Automated Decision-Making and Education" (with Gulson, Gregg & Swist)
@@ -117,4 +109,4 @@ My academic writing explores the intersection of AI and society, with particular
 
 ---
 
-*Complete publication metrics available on [Google Scholar](https://scholar.google.com.au/citations?user=rzyG0ucAAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-7643-701X).*
+*Complete publication metrics available on [Google Scholar](https://scholar.google.com.au/citations?user=rzyG0ucAAAAJ&hl=en)*
