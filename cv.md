@@ -88,7 +88,7 @@ Currently Research Fellow at QUT's GenAI Lab, affiliated investigator at the ARC
 
 **grant leadership & project management**
 - **Co-Chief Investigator, ARC Discovery Project:** $512,000 for "Generative AI and the future of academic writing and publishing" (2025-2027)
-- **Contributed to $38M research proposal development:** Coordinated partnerships across tech companies, telecommunications, humanitarian organisations, public institutions, and international universities
+- **Stakeholder management for ARC Centre of Excellence bid development:** Coordinated partnerships across tech companies, telecommunications, humanitarian organisations, public institutions, and international universities
 
 **policy impact & government advisory**
 - **Research cited in 18 policy documents** from UNESCO, European Commission, and national governments
