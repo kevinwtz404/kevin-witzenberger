@@ -1,0 +1,95 @@
+
+# robots.txt
+# Place this file at: https://kevinwtz404.github.io/kevin-witzenberger/robots.txt
+
+User-agent: *
+Allow: /
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://kevinwtz404.github.io/kevin-witzenberger/sitemap.xml
+
+# Optional: Block any admin or private directories if you have them
+# Disallow: /admin/
+# Disallow: /private/
+
+---
+
+<!-- sitemap.xml -->
+<!-- Place this file at: https://kevinwtz404.github.io/kevin-witzenberger/sitemap.xml -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Home/About Page -->
+  <url>
+    <loc>https://kevinwtz404.github.io/kevin-witzenberger/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Portfolio Page -->
+  <url>
+    <loc>https://kevinwtz404.github.io/kevin-witzenberger/portfolio</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- CV Page -->
+  <url>
+    <loc>https://kevinwtz404.github.io/kevin-witzenberger/cv</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Writing Page -->
+  <url>
+    <loc>https://kevinwtz404.github.io/kevin-witzenberger/writing</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Media Page -->
+  <url>
+    <loc>https://kevinwtz404.github.io/kevin-witzenberger/media</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+</urlset>
+
+---
+
+<!-- Optional: Enhanced meta tags for each page -->
+<!-- Add these to your HTML <head> sections -->
+
+<!-- For Home/About Page -->
+<meta name="description" content="Kevin Witzenberger - AI strategy advisor helping organizations navigate AI transformation. Research Fellow at QUT GenAI Lab with expertise in AI governance and policy.">
+<meta name="keywords" content="AI strategy, artificial intelligence consultant, AI governance, generative AI expert, AI policy, technology advisor">
+<meta property="og:title" content="Kevin Witzenberger - AI Strategy Advisor">
+<meta property="og:description" content="Helping organizations navigate AI transformation through strategic advisory work that bridges technical capabilities with business realities.">
+<meta property="og:url" content="https://kevinwtz404.github.io/kevin-witzenberger/">
+<meta property="og:type" content="website">
+
+<!-- For Portfolio Page -->
+<meta name="description" content="Portfolio of AI strategy projects including GenAI Arcade platform, government policy advisory work, and international AI governance initiatives.">
+<meta name="keywords" content="AI projects, GenAI Arcade, AI policy consulting, government advisory, UNESCO AI governance">
+
+<!-- For CV Page -->
+<meta name="description" content="Kevin Witzenberger CV - AI strategy advisor with PhD in Science & Technology Studies, $512k research funding, and policy influence across 18 international documents.">
+<meta name="keywords" content="AI researcher CV, artificial intelligence consultant, QUT GenAI Lab, ADM+S Centre, AI governance expert">
+
+<!-- For Writing Page -->
+<meta name="description" content="Academic publications and research on AI governance, education technology, and democratic approaches to AI implementation.">
+<meta name="keywords" content="AI research publications, Harvard Educational Review, AI governance papers, education technology research">
+
+<!-- For Media Page -->
+<meta name="description" content="Media appearances and public engagement work on AI literacy, technology governance, and responsible AI implementation.">
+<meta name="keywords" content="AI expert media, The Conversation AI articles, AI literacy, technology governance speaker">
+
+---
