@@ -6,7 +6,7 @@ title: about
 # kevin witzenberger
 
 <div class="bio-container">
-<img src="/kevin-witzenberger/assets/headshot.jpg" alt="Kevin Witzenberger" class="headshot">
+<img src="assets/headshot.jpg" alt="Kevin Witzenberger" class="headshot">
 
 <div class="bio-text">
 
