@@ -28,7 +28,7 @@ title: cv
 
 
 <div style="margin: 30px 0;">
-  <a href="/assets/Kevin.Witzenberger_CV.pdf" download style="background-color: #6830C4; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold;">
+  <a href="/kevin-witzenberger/assets/Kevin.Witzenberger_CV.pdf" download style="background-color: #6830C4; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold;">
     Download PDF
   </a>
 </div>
