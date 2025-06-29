@@ -3,7 +3,11 @@ layout: default
 title: about
 ---
 
+<div class="bio-container">
 <img src="/assets/headshot.jpg" alt="Kevin Witzenberger" class="headshot">
+
+<div class="bio-text" markdown="1">
+
 
 # kevin witzenberger
 
