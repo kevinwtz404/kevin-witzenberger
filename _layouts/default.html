@@ -405,13 +405,13 @@
     <a href="#" class="page-nav next">›</a>
 
     <script>
-    const pages = [
-        { name: 'About', url: '{{ site.baseurl }}/' },
-        { name: 'Portfolio', url: '{{ site.baseurl }}/portfolio/' },
-        { name: 'CV', url: '{{ site.baseurl }}/cv/' },
-        { name: 'writing', url: '{{ site.baseurl }}/writing/' },
-        { name: 'Media', url: '{{ site.baseurl }}/media/' }
-    ];
+   const pages = [
+    { name: 'About', url: '/kevin-witzenberger/' },
+    { name: 'Portfolio', url: '/kevin-witzenberger/portfolio/' },
+    { name: 'CV', url: '/kevin-witzenberger/cv/' },
+    { name: 'writing', url: '/kevin-witzenberger/writing/' },
+    { name: 'Media', url: '/kevin-witzenberger/media/' }
+];
 
     const currentPath = window.location.pathname.replace('{{ site.baseurl }}', '');
     let currentIndex = pages.findIndex(page => page.url.replace('{{ site.baseurl }}', '') === currentPath);
