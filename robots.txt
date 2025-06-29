@@ -1,6 +1,7 @@
 
 # robots.txt
-# Place this file at: https://kevinwtz404.github.io/kevin-witzenberger/robots.txt
+User-agent: Googlebot
+Allow: /
 
 User-agent: *
 Allow: /
