@@ -6,9 +6,9 @@ title: about
 # kevin witzenberger
 
 <div class="bio-container">
-<img src="{{ site.baseurl }}/assets/headshot.jpg" alt="Kevin Witzenberger" class="headshot">
+<img src="/kevin-witzenberger/assets/headshot.jpg" alt="Kevin Witzenberger" class="headshot">
 
-<div class="bio-text" markdown="1">
+<div class="bio-text">
 
 ## about
 I'm a researcher at the intersection of AI and society, with a focus on generative AI. My work centres on a core principle: **better AI literacy creates better AI capabilities**. Organisations don't just need AI tools—they need people who understand the opportunities and risks of these technologies.
