@@ -110,26 +110,24 @@
 }
 
 .headshot {
-    max-width: 300px;
-    width: 100%;
+    max-width: 400px;  /* Bigger on desktop */
+    width: auto;
     height: auto;
     border-radius: 8px;
     margin-left: auto;
-    margin-right: 0;
+    margin-right: 0;   /* This aligns it right */
+    margin-bottom: 20px;
     display: block;
 }
 
-/* Mobile responsive */
+/* Mobile responsive for headshot */
 @media (max-width: 768px) {
     .headshot {
-        max-width: 150px;  /* Just smaller size, still right-aligned */
+        max-width: 100%;   /* Fill the full width on mobile */
+        margin-left: 0;
+        margin-right: 0;
     }
 }
-    
-    .headshot {
-        max-width: 200px;
-        margin: 0 auto;
-    }
 
         /* Desktop sidebar for contact info */
         .sidebar {
