@@ -15,7 +15,7 @@ My media work focuses on making AI research accessible to diverse audiences thro
 
 **"A weird phrase is plaguing scientific papers – and we traced it back to a glitch in AI training data"** (2025)  
 *Co-authors: Aaron Snoswell, Rayane El Masri*  
-Breakthrough research on "digital fossils" in AI training data that gained international media coverage and viral social media sharing.  
+Research on "digital fossils" in AI training data.  
 [Read article →](https://theconversation.com/a-weird-phrase-is-plaguing-scientific-papers-and-we-traced-it-back-to-a-glitch-in-ai-training-data-254463)
 
 **"Microsoft cuts data centre plans and hikes prices in push to make users carry AI costs"** (2025)  
@@ -33,15 +33,14 @@ Public panel on complex challenges in AI governance and environmental impact.
 
 **Weizenbaum Institute, Berlin** (2024)  
 "Generative AI as digital media platform economy"  
-International research presentation on platform economics of AI systems.
+International research symposium on platform economics of AI.
 
 **Queensland Association for Student Advisers Annual Meeting** (2024)  
-"Preparing Students with the Skills Needed to Navigate an AI-Influenced Job Market"  
-Keynote presentation on AI literacy in higher education.
+"Preparing Students with the Skills Needed to Navigate an AI-Influenced Job Market"
 
 ---
 
 ## current research
 
 **ARC Discovery Project: "Generative AI and the future of academic writing and publishing"** (2025-2027)  
-Co-Chief Investigator on $512,000 research initiative examining how AI platforms reshape scholarly communication and knowledge production. The project investigates broader implications for how society creates, validates, and shares knowledge in an AI-mediated world.
+Co-Chief Investigator on research initiative examining how AI platforms reshape scholarly communication and knowledge production. The project investigates broader implications for how society creates, validates, and shares knowledge in an AI-mediated world.
