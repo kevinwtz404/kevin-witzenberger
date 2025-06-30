@@ -34,6 +34,9 @@ My background spans technical and social dimensions of AI. I can engage with sys
 AI implementations often fail not due to technical limitations, but because organisations struggle to distinguish between actual capabilities and inflated claims. My work focuses on creating practical approaches, systems, and frameworks that that help institutions make informed decisions about AI adoption.
 
 <br><br>
-<br><br>
+
+---
+
 </div>
 </div>
+
