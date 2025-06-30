@@ -3,7 +3,7 @@ layout: default
 title: about
 ---
 
-# kevin witzenberger
+# kevin witzenberger, phd
 
 <div class="bio-container">
 <img src="assets/headshot.jpg" alt="Kevin Witzenberger" class="headshot">
@@ -31,9 +31,7 @@ My background spans technical and social dimensions of AI. I can engage with sys
 
 ## why this matters
 
-AI implementations often fail not due to technical limitations, but because organisations struggle to distinguish between actual capabilities and inflated claims. My work focuses on creating practical frameworks that bridge this knowledge gap.
-
-This includes establishing new approaches to AI literacy, contributing to public discourse through media engagement, and developing governance frameworks that help institutions make informed decisions about AI adoption.
+AI implementations often fail not due to technical limitations, but because organisations struggle to distinguish between actual capabilities and inflated claims. My work focuses on creating practical approaches, systems, and frameworks that that help institutions make informed decisions about AI adoption.
 
 </div>
 </div>
