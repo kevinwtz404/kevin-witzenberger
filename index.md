@@ -22,8 +22,8 @@ Currently a Research Fellow at QUT's GenAI Lab, affiliated investigator at the A
 My background spans technical and social dimensions of AI. I can engage with system architectures and code, while also facilitating conversations between engineering teams and broader stakeholders. My experience includes:
 
 * **building AI literacy through professional development:** Leading workshops for organisational professionals, creating interactive platforms, and developing curricula that help organisations implement AI while understanding its constraints
-* **bridging multiple perspectives:** Working across technical teams, policymakers, end users, executives, and community stakeholders
-* **establishing thought leadership:** Co-founding Education Futures Studio, developing technical democracy frameworks, and contributing to public discourse through platforms like The Conversation
+* **bridging multiple perspectives:** Working across technical teams, policymakers, end users, executive decision-makers, and community stakeholders
+* **establishing thought leadership:** Co-founding Education Futures Studio and contributing to public discourse through my work with the QUT GenAI Lab
 * **influencing governance frameworks:** Research cited in government documents from UNESCO to the European Commission, with input to state and federal policymakers
 * **communicating across contexts:** From technical discussions to public lectures, media engagement, and academic publications
 
@@ -31,7 +31,7 @@ My background spans technical and social dimensions of AI. I can engage with sys
 
 ## why this matters
 
-AI implementations often fail not due to technical limitations, but because organisations struggle to distinguish between actual capabilities and inflated claims. My work focuses on creating practical approaches, systems, and frameworks that that help institutions make informed decisions about AI adoption.
+AI implementations often fail not due to technical limitations, but because organisations struggle to distinguish between actual capabilities and inflated claims. My work focuses on creating practical approaches, systems, and frameworks that that help people and institutions make informed decisions about AI.
 
 <br><br>
 
