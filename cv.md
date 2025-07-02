@@ -47,8 +47,7 @@ Currently Research Fellow at QUT's GenAI Lab, affiliated investigator at the ARC
 - University of New South Wales, Australia
 - **Scientia PhD Scholarship recipient** - awarded to top 5% of applicants after competitive two-stage selection process
 - Dissertation: How artificial intelligence reshapes organisational governance structures
-- Total scholarship value: $250,000 (stipend, fees, career development fund)
-
+  
 **M.Sc. in Media and Communication Studies (2017)**
 - Lund University, Sweden
 - Dissertation: User agency within algorithmic systems - published in university's collection of outstanding graduate work
@@ -62,7 +61,7 @@ Currently Research Fellow at QUT's GenAI Lab, affiliated investigator at the ARC
 
 **Research Fellow – GenAI Lab, Queensland University of Technology** [April 2024 – Present]
 - Leading research programmes on AI capability development and public engagement strategies
-- Managing "Critical Capabilities for Inclusive AI" research stream within national $35M centre of excellence
+- "Critical Capabilities for Inclusive AI" research stream within national Centre of Excellence 
 - Supervising PhD researchers and coordinating international collaborative projects
 
 **Senior Research Officer, University of Sydney** [June 2020 – March 2024]
@@ -121,11 +120,6 @@ Currently Research Fellow at QUT's GenAI Lab, affiliated investigator at the ARC
 - Public communication through journalism, academic publishing, and media engagement
 - Training programme development and delivery for diverse professional audiences
 
-**languages & international experience**
-- German (native), English (fluent)
-- European Union citizenship with work authorisation across EU markets
-- Research and professional experience across Germany, Sweden, and Australia
-
 ---
 
 ## professional affiliations
@@ -138,6 +132,8 @@ Currently Research Fellow at QUT's GenAI Lab, affiliated investigator at the ARC
 ---
 
 ## selected publications
+
+- **Witzenberger, K.**,Burgess, J., He, W., Snoswell, A. (2025). Building Situated Capabilities: An Introduction to the GenAI Arcade. Availube at SSRN: https://papers.ssrn.com/abstract=5326869 
 
 - Burgess, J., He, W., Snoswell, A. & **Witzenberger, K.** (2024). Unboxing GenAI: Building capacities for public understanding of Generative AI. Available at SSRN: https://ssrn.com/abstract=4920305
 
