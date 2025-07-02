@@ -7,7 +7,7 @@ title: portfolio
 
 ## genAI arcade: interactive ai literacy platform
 
-Understanding generative AI is challenging when most resources are either too technical, gloss over environmental costs, or present apocalyptic scenarios. The GenAI Arcade addresses this gap by letting people learn about AI through direct interaction rather than passive consumption.
+Understanding generative AI is challenging when most resources are either too technical, gloss over environmental costs, or present apocalyptic scenarios. The GenAI Arcade addresses this gap by letting people learn about AI through direct engagement and experimentation.
 
 The platform features interactive games that reveal both AI capabilities and limitations. Users experiment with different AI systems, testing boundaries and exploring what happens when pushed in unexpected directions. No technical background or coding knowledge required.
 
@@ -16,7 +16,7 @@ The platform features interactive games that reveal both AI capabilities and lim
 * **Learning through experimentation:** Direct interaction with AI systems rather than theoretical explanations
 * **Critical engagement:** Addresses environmental costs, corporate accountability, and realistic limitations alongside capabilities
 * **Practical skills development:** Teaches better prompting, when to choose AI over simpler tools, and how to evaluate AI outputs
-* **Democratic participation:** Empowers users to make informed decisions about AI adoption and hold developers accountable
+* **Participatory framework:** Empowers users to make informed decisions about AI adoption and hold developers accountable
 
 ### outcomes
 
