@@ -7,14 +7,17 @@ title: writing
 
 My academic writing explores the intersection of AI and society, with particular focus on education governance, democratic technology assessment, and AI literacy. My work combines rigorous scholarship with practical applications for policy and institutional decision-making.
 
-**Full publication list:** [Google Scholar Profile](https://scholar.google.com.au/citations?user=rzyG0ucAAAAJ&hl=en) | **491 citations | h-index: 6**
+**Full publication list:** [Google Scholar Profile](https://scholar.google.com.au/citations?user=rzyG0ucAAAAJ&hl=en) | **537 citations | h-index: 7**
 
 
 ---
 
 ## Recent Publications (2024-2025)
 
-**Burgess, J., He, W., Snoswell, A. & Witzenberger, K.** (2024). Unboxing GenAI: Building capacities for public understanding of Generative AI. *Available at SSRN*.  
+**Witzenberger, K., Burgess, J., He, W., Snoswell, A.** (2025). Building Situated Capabilities: An Introduction to the GenAI Arcade. *Available at SSRN*.
+[View paper →](https://papers.ssrn.com/abstract=5326869)
+
+**Burgess, J., He, W., Snoswell, A. & Witzenberger, K.** (2024). Unboxing GenAI: Building capacities for public understanding of Generative AI. *Available at SSRN*.
 [View paper →](https://ssrn.com/abstract=4920305)
 
 **Mitchell, P., Riedlinger, M., Burgess, J., Snoswell, A., Witzenberger, K. & Goldenfein, J.** (2024). Research GenAI: Situating generative AI in the scholarly economy. *Selected Papers in Internet Research 2024*.  

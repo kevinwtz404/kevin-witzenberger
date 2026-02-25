@@ -5,9 +5,30 @@ title: portfolio
 
 # portfolio
 
+## ai product development
+
+Full-stack AI products built across sectors. Each project involved scoping the problem, choosing the right architecture, building the solution, and shipping it.
+
+**Sales Engagement Platform** (B2B SaaS)
+Built an AI-powered sales engagement platform with LLM-driven lead search, automated outreach sequence generation, and bi-directional email and calendar sync across Gmail and Outlook. Features include lead scoring with Thompson Sampling, meeting analysis, and Stripe billing integration.
+*Tech: TypeScript, Next.js, React, PostgreSQL, Supabase, Google Gemini, Gmail API, Microsoft Graph API, OAuth 2.0, Stripe*
+
+**Knowledge Graph System** (Engineering)
+Built a knowledge graph system for an engineering firm, structuring product data with embeddings to generate tailored messaging for different buyer personas and stakeholder audiences.
+*Tech: TypeScript, Next.js, PostgreSQL, Supabase, Google Gemini, embeddings*
+
+**Candidate Ranking and Enrichment System** (Recruitment)
+Built an AI-powered candidate ranking system with automated daily applicant scoring and a Chrome extension for LinkedIn profile capture and data enrichment.
+*Tech: TypeScript, Next.js, PostgreSQL, Chrome Extensions, LLM APIs*
+
+**RAG System Procurement Advisory** (Financial Services)
+Advised a financial services client on RAG system procurement, evaluating vendor architectures, identifying technical risks, and making build-vs-buy recommendations.
+
+---
+
 ## genAI arcade: interactive ai literacy platform
 
-Understanding generative AI is challenging when most resources are either too technical, gloss over environmental costs, or present apocalyptic scenarios. The GenAI Arcade addresses this gap by letting people learn about AI through direct engagement and experimentation.
+Understanding generative AI is challenging when most resources are either too technical, gloss over costs, or present apocalyptic scenarios. The GenAI Arcade addresses this gap by letting people learn about AI through direct engagement and experimentation.
 
 The platform features interactive games that reveal both AI capabilities and limitations. Users experiment with different AI systems, testing boundaries and exploring what happens when pushed in unexpected directions. No technical background or coding knowledge required.
 
@@ -45,4 +66,3 @@ Built using modular Gradio applications with custom AI integrations. Designed fo
 Research cited in 18 policy documents from organisations including UNESCO and the European Commission, with input to policy decisions at state and federal levels across Australia and Europe. This includes public engagement with European policymakers through lectures on automation to the Green Party's Bildung working group in Berlin.
 
 Education Futures Studio: Co-founded research initiative recognised by government agencies as a leading voice in AI policy. Provided academic advisory work on the NSW Framework for Generative AI in Schools, adopted across the NSW school system affecting hundreds of thousands of students.
-

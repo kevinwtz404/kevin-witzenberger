@@ -35,9 +35,7 @@ title: cv
 
 ## profile summary
 
-AI strategy advisor who helps organisations navigate the possibilities and risks of AI implementation. Eight years of research experience spanning technical development, policy governance, and stakeholder engagement across government, industry, and academic sectors.
-
-Currently Research Fellow at QUT's GenAI Lab, affiliated investigator at the ARC Centre of Excellence for Automated Decision-Making + Society, and co-founder of Education Futures Studio. Combines technical understanding with strategic thinking to translate AI capabilities into practical organisational frameworks.
+AI enablement, strategy, and research. I help organisations close the gap between AI capabilities and adoption by building AI products, designing enablement programmes, and advising on AI strategy. PhD with 500+ citations and research cited in 18 international policy documents. Currently consulting on AI strategy and product development across sectors.
 
 ---
 
@@ -59,10 +57,18 @@ Currently Research Fellow at QUT's GenAI Lab, affiliated investigator at the ARC
 
 ## professional experience
 
-**Research Fellow – GenAI Lab, Queensland University of Technology** [April 2024 – Present]
-- Leading research programmes on AI capability development and public engagement strategies
-- "Critical Capabilities for Inclusive AI" research stream within national Centre of Excellence 
-- Supervising PhD researchers and coordinating international collaborative projects
+**AI Strategy & Implementation Consultant** [June 2023 – Present]
+- Designed and built full-stack AI-powered sales engagement platform (TypeScript, Next.js, PostgreSQL), integrating LLM-driven lead search, automated sequence generation, and Gmail/Outlook APIs for a B2B SaaS startup
+- Built knowledge graph system for engineering firm, structuring product data with embeddings to generate tailored messaging across different buyer personas
+- Developed AI-powered candidate ranking and enrichment system for recruitment firm, with automated applicant scoring and Chrome extension for LinkedIn profile capture
+- Advised financial services client on RAG system procurement, evaluating vendor architectures and identifying technical risks
+- Developed AI curriculum for financial services training provider, creating learning frameworks on generative AI applications in financial modelling
+
+**Research Fellow – GenAI Lab, Queensland University of Technology** [April 2024 – February 2025]
+- Built GenAI Arcade, an interactive AI literacy platform grounded in situated capabilities research
+- Delivered AI transformation workshops to 100+ senior staff on transformer architectures, RAG, and use case discovery
+- Developed LLM benchmarking tools for domain-specific applications in NGO partnerships
+- Secured $512K ARC Discovery grant as Co-Chief Investigator
 
 **Senior Research Officer, University of Sydney** [June 2020 – March 2024]
 - Led AI governance project spanning technical assessment, policy development, and stakeholder engagement
@@ -96,7 +102,7 @@ Currently Research Fellow at QUT's GenAI Lab, affiliated investigator at the ARC
 - **International policy engagement:** Presented to European policymakers on AI governance
 
 **research impact & public engagement**
-- **491 citations** across 11 academic disciplines demonstrating cross-sector reach
+- **537 citations** across 11 academic disciplines demonstrating cross-sector reach
 - **Contributing expert, The Conversation:** Articles reaching broad public audiences on AI governance
 - **Media coverage:** Research featured in international outlets including breakthrough work on AI training data integrity
 
@@ -104,21 +110,25 @@ Currently Research Fellow at QUT's GenAI Lab, affiliated investigator at the ARC
 
 ## core skills
 
+**technical**
+- TypeScript, JavaScript, Python
+- React, Next.js (App Router, Server Components)
+- PostgreSQL, Supabase (Row-Level Security, multi-tenant architecture)
+- LLM integration (Google Gemini, OpenAI), RAG pipelines, embeddings
+- REST API design, OAuth 2.0, third-party API integration (Gmail, Outlook, Stripe, Slack)
+- Chrome extension development
+
 **strategic & leadership**
+- AI strategy, use case discovery, and build-vs-buy evaluation
 - Complex project management across government, industry, and academic sectors
 - Multi-stakeholder coordination and relationship management
-- Change management for technology adoption and organisational transformation
-
-**AI & technology expertise**
-- Technical literacy: can engage with code and system architectures while maintaining strategic focus
 - AI governance: practical frameworks for responsible implementation and risk assessment
-- Technology assessment: democratic approaches to evaluating emerging technologies
-- Regulatory understanding: AI policy development across multiple jurisdictions
 
-**communication & engagement**
+**communication & enablement**
+- AI transformation workshop design and delivery for senior leaders
+- Curriculum development and instructional design for AI literacy
 - Executive briefing and presentation to government ministers and industry leaders
 - Public communication through journalism, academic publishing, and media engagement
-- Training programme development and delivery for diverse professional audiences
 
 ---
 

@@ -16,45 +16,41 @@ Most companies have invested in AI but the ROI isn't materialising. It's not the
 
 My work centres on a core principle: **better AI literacy creates better AI capabilities**. Organisations don't just need AI tools. They need people who understand where the technology actually works in their specific context, what's overhyped, and how to make it useful.
 
-I build the infrastructure to close that gap.
+I help close that gap by researching AI, building AI products, and enabling teams to adopt AI effectively.
 
 ---
 
 ## what I bring
 
-I have 6 years of experience researching and consulting in the AI space, mostly examining the opportunities and risks of generative AI. Across my PhD, advisory work, and roles at the Education Futures Studio and QUT's GenAI Lab, I've developed expertise in AI evaluation, stakeholder management, training design, and change management. I can evaluate system architectures, write code, and make build-vs-buy recommendations, but my real value is understanding how to make AI work in organisational context.
+My work spans AI research, hands-on product development (full-stack AI platforms across SaaS, engineering, recruitment, and financial services), and enablement programme design (workshops, curricula, and learning tools for senior leaders and institutions).
 
-While my background is primarily in research, I have applied experience putting this into practice through stakeholder workshops, use case discovery, and prototype development.
+I work across the full AI adoption lifecycle: identifying high-value use cases, prototyping and building solutions to validate them, and designing the training that makes adoption stick.
+
+**Research and advisory:** 6 years examining the opportunities and risks of generative AI. Research cited in 18 international policy documents including UNESCO and the EU Commission.
+
+**Product development:** I design and build full-stack AI products (TypeScript, Next.js, PostgreSQL, Python, LLM APIs) across industries that validate AI opportunities and solve specific business problems.
+
+**Enablement:** I design and deliver AI transformation workshops, curricula, and interactive learning tools that give teams the capability to adopt AI meaningfully.
 
 ---
 
-## how I build capability infrastructure
+## how I work
 
 * **Use case discovery:** Finding where AI genuinely fits your workflows, not where vendors say it should.
 
-* **Literacy and enablement:** Training teams to understand what AI can and can't do, so they stop chasing the wrong solutions.
+* **Build and ship:** Designing, developing, and deploying AI products and integrations, from prototype to production.
 
-* **Evaluation frameworks:** Measuring AI against what your stakeholders actually need, not generic benchmarks.
+* **Enablement:** Building and delivering workshops, curricula, and learning tools that give teams real AI capability.
+
+* **Evaluation:** Benchmarking and testing AI systems against what your stakeholders actually need, not generic metrics.
 
 * **Translation:** Sitting between technical teams and business teams, helping both sides understand each other.
-
-* **Champion networks:** Identifying and supporting internal advocates who drive adoption across the organisation.
-
----
-
-## why this matters
-
-AI performance requires both technology and team capability. Most organisations invest heavily in one, minimally in the other. The technology works. The teams are competent. But without the right infrastructure, the investment doesn't pay off.
-
-Globally, $30-40B has gone into generative AI. Most organisations see marginal returns. The gap isn't in the models. It's in capability, adoption, and alignment.
-
-I help close that gap.
 
 ---
 
 ## who I work with
 
-I've worked with government departments, universities, investment firms, libraries, and international research organisations. Whether you're evaluating tools, figuring out where AI fits, or trying to get your teams up to speed, I can help.
+I work with organisations across sectors, including startups, engineering firms, recruitment companies, financial services, government departments, universities, and international research organisations. Whether you need an AI product built, your teams upskilled, or a strategy for where AI fits, I can help.
 
 <br><br>
 
